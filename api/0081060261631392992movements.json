@@ -1,0 +1,614 @@
+[{
+	"tns:response": {
+		"currencyISOCode": "EUR",
+		"pagOut": {
+			"MatchedRecCount": "30",
+			"SentRecCount": "30",
+			"Token": {
+				"$": "20150721120702749245#1#900.00#EUR#2015-07-21"
+			}
+		},
+		"trn": [{
+			"conceptExtendedRest": "Entradas de cine",
+			"currencyCode": "EUR",
+			"complementaryInf1": {
+				"$": "\n\n\n\n"
+			},
+			"compositionDescription": "Entradas de cine",
+			"operationNetAmount": "2500.00",
+			"currentBalance": "0.00",
+			"contableDate": "2014-04-07",
+			"beneficiary": "Name of person",
+			"address": {
+				"$": "Calle de prueba nº 22, Barcelona"
+			},
+			"bank": "0081",
+			"office": "0057",
+			"accountNumber": "0001376147",
+			"commissions": "0.00",
+			"observations": {
+				"$": ""
+			}
+		}, {
+			"conceptExtendedRest": "REM. CHEQUES",
+			"currencyCode": "EUR",
+			"complementaryInf1": {
+				"$": "\n\n\n\n"
+			},
+			"compositionDescription": "PROPIOS",
+			"operationNetAmount": "100.00",
+			"currentBalance": "100.00",
+			"contableDate": "2015-06-10",
+			"beneficiary": "Name of person",
+			"address": {
+				"$": "Calle de verdad nº 282, Barcelona"
+			},
+			"bank": "0081",
+			"office": "0057",
+			"accountNumber": "0001376147",
+			"commissions": "0.00",
+			"observations": {
+				"$": ""
+			}
+		}, {
+			"conceptExtendedRest": "CHEQUE",
+			"currencyCode": "EUR",
+			"complementaryInf1": {
+				"$": "\n\n\n\n"
+			},
+			"compositionDescription": "0000357",
+			"operationNetAmount": "-2500.00",
+			"currentBalance": "-2400.00",
+			"contableDate": "2015-09-28",
+			"beneficiary": "Name of person",
+			"address": {
+				"$": "Calle Entenza nº 122, Barcelona"
+			},
+			"bank": "0081",
+			"office": "0057",
+			"accountNumber": "0001376147",
+			"commissions": "0.00",
+			"observations": {
+				"$": ""
+			}
+		}, {
+			"conceptExtendedRest": "REM. CHEQUES",
+			"currencyCode": "EUR",
+			"complementaryInf1": {
+				"$": "\n\n\n\n"
+			},
+			"compositionDescription": "PROPIOS",
+			"operationNetAmount": "3000.00",
+			"currentBalance": "600.00",
+			"contableDate": "2015-07-21",
+			"beneficiary": "Name of person",
+			"address": {
+				"$": "Calle Madrid nº 3, Barcelona"
+			},
+			"bank": "0081",
+			"office": "0057",
+			"accountNumber": "0001376147",
+			"commissions": "0.00",
+			"observations": {
+				"$": ""
+			}
+		}, {
+			"conceptExtendedRest": "REM. CHEQUES",
+			"currencyCode": "EUR",
+			"complementaryInf1": {
+				"$": "\n\n\n\n"
+			},
+			"compositionDescription": "PROPIOS",
+			"operationNetAmount": "300.00",
+			"currentBalance": "900.00",
+			"contableDate": "2015-07-21",
+			"beneficiary": "Name of person",
+			"address": {
+				"$": "Calle de Aragó nº 22, Barcelona"
+			},
+			"bank": "0081",
+			"office": "0057",
+			"accountNumber": "0001376147",
+			"commissions": "0.00",
+			"observations": {
+				"$": ""
+			}
+		}, {
+			"conceptExtendedRest": "INGR. EFECT.",
+			"currencyCode": "EUR",
+			"complementaryInf1": {
+				"$": "\n\n\n\n"
+			},
+			"compositionDescription": "POR CUENTA DE ROGER",
+			"operationNetAmount": "2500.00",
+			"currentBalance": "0.00",
+			"contableDate": "2014-04-07",
+			"beneficiary": "Name of person",
+			"address": {
+				"$": "Calle de Farga nº 99, Barcelona"
+			},
+			"bank": "0081",
+			"office": "0057",
+			"accountNumber": "0001376147",
+			"commissions": "0.00",
+			"observations": {
+				"$": ""
+			}
+		}, {
+			"conceptExtendedRest": "REM. CHEQUES",
+			"currencyCode": "EUR",
+			"complementaryInf1": {
+				"$": "\n\n\n\n"
+			},
+			"compositionDescription": "PROPIOS",
+			"operationNetAmount": "100.00",
+			"currentBalance": "100.00",
+			"contableDate": "2015-06-10",
+			"beneficiary": "Name of person",
+			"address": {
+				"$": "Calle del Salvador nº 22, Ibiza"
+			},
+			"bank": "0081",
+			"office": "0057",
+			"accountNumber": "0001376147",
+			"commissions": "0.00",
+			"observations": {
+				"$": ""
+			}
+		}, {
+			"conceptExtendedRest": "CHEQUE",
+			"currencyCode": "EUR",
+			"complementaryInf1": {
+				"$": "\n\n\n\n"
+			},
+			"compositionDescription": "0000357",
+			"operationNetAmount": "-2500.00",
+			"currentBalance": "-2400.00",
+			"contableDate": "2015-07-21",
+			"beneficiary": "Name of person",
+			"address": {
+				"$": "Calle de prueba nº 22, Barcelona"
+			},
+			"bank": "0081",
+			"office": "0057",
+			"accountNumber": "0001376147",
+			"commissions": "0.00",
+			"observations": {
+				"$": ""
+			}
+		}, {
+			"conceptExtendedRest": "REM. CHEQUES",
+			"currencyCode": "EUR",
+			"complementaryInf1": {
+				"$": "\n\n\n\n"
+			},
+			"compositionDescription": "PROPIOS",
+			"operationNetAmount": "3000.00",
+			"currentBalance": "600.00",
+			"contableDate": "2015-07-21",
+			"beneficiary": "Name of person",
+			"address": {
+				"$": "Calle de verdad nº 32, Barcelona"
+			},
+			"bank": "0081",
+			"office": "0057",
+			"accountNumber": "0001376147",
+			"commissions": "0.00",
+			"observations": {
+				"$": ""
+			}
+		}, {
+			"conceptExtendedRest": "REM. CHEQUES",
+			"currencyCode": "EUR",
+			"complementaryInf1": {
+				"$": "\n\n\n\n"
+			},
+			"compositionDescription": "PROPIOS",
+			"operationNetAmount": "300.00",
+			"currentBalance": "900.00",
+			"contableDate": "2015-07-21",
+			"beneficiary": "Name of person",
+			"address": {
+				"$": "Calle de prueba nº 22, Barcelona"
+			},
+			"bank": "0081",
+			"office": "0057",
+			"accountNumber": "0001376147",
+			"commissions": "0.00",
+			"observations": {
+				"$": ""
+			}
+		}, {
+			"conceptExtendedRest": "INGR. EFECT.",
+			"currencyCode": "EUR",
+			"complementaryInf1": {
+				"$": "\n\n\n\n"
+			},
+			"compositionDescription": "POR CUENTA DE ALBERT",
+			"operationNetAmount": "2500.00",
+			"currentBalance": "0.00",
+			"contableDate": "2014-04-07",
+			"beneficiary": "Name of person",
+			"address": {
+				"$": "Carrer de prova nº 22, Barcelona"
+			},
+			"bank": "0081",
+			"office": "0057",
+			"accountNumber": "0001376147",
+			"commissions": "0.00",
+			"observations": {
+				"$": ""
+			}
+		}, {
+			"conceptExtendedRest": "REM. CHEQUES",
+			"currencyCode": "EUR",
+			"complementaryInf1": {
+				"$": "\n\n\n\n"
+			},
+			"compositionDescription": "PROPIOS",
+			"operationNetAmount": "100.00",
+			"currentBalance": "100.00",
+			"contableDate": "2015-06-10",
+			"beneficiary": "Name of person",
+			"address": {
+				"$": "Calle Mandri nº 22, Barcelona"
+			},
+			"bank": "0081",
+			"office": "0057",
+			"accountNumber": "0001376147",
+			"commissions": "0.00",
+			"observations": {
+				"$": ""
+			}
+		}, {
+			"conceptExtendedRest": "CHEQUE",
+			"currencyCode": "EUR",
+			"complementaryInf1": {
+				"$": "\n\n\n\n"
+			},
+			"compositionDescription": "0000357",
+			"operationNetAmount": "-2500.00",
+			"currentBalance": "-2400.00",
+			"contableDate": "2015-07-21",
+			"beneficiary": "Name of person",
+			"address": {
+				"$": "Calle de la bonanova nº 22, Barcelona"
+			},
+			"bank": "0081",
+			"office": "0057",
+			"accountNumber": "0001376147",
+			"commissions": "0.00",
+			"observations": {
+				"$": ""
+			}
+		}, {
+			"conceptExtendedRest": "REM. CHEQUES",
+			"currencyCode": "EUR",
+			"complementaryInf1": {
+				"$": "\n\n\n\n"
+			},
+			"compositionDescription": "PROPIOS",
+			"operationNetAmount": "3000.00",
+			"currentBalance": "600.00",
+			"contableDate": "2015-07-21",
+			"beneficiary": "Name of person",
+			"address": {
+				"$": "Calle de Maó nº 72, Barcelona"
+			},
+			"bank": "0081",
+			"office": "0057",
+			"accountNumber": "0001376147",
+			"commissions": "0.00",
+			"observations": {
+				"$": ""
+			}
+		}, {
+			"conceptExtendedRest": "REM. CHEQUES",
+			"currencyCode": "EUR",
+			"complementaryInf1": {
+				"$": "\n\n\n\n"
+			},
+			"compositionDescription": "PROPIOS",
+			"operationNetAmount": "300.00",
+			"currentBalance": "900.00",
+			"contableDate": "2015-07-21",
+			"beneficiary": "Name of person",
+			"address": {
+				"$": "Calle de prueba nº 55, Madrid"
+			},
+			"bank": "0081",
+			"office": "0057",
+			"accountNumber": "0001376147",
+			"commissions": "0.00",
+			"observations": {
+				"$": ""
+			}
+		}, {
+			"conceptExtendedRest": "INGR. EFECT.",
+			"currencyCode": "EUR",
+			"complementaryInf1": {
+				"$": "\n\n\n\n"
+			},
+			"compositionDescription": "POR CUENTA DE CALVIN",
+			"operationNetAmount": "2500.00",
+			"currentBalance": "0.00",
+			"contableDate": "2014-04-07",
+			"beneficiary": "Name of person",
+			"address": {
+				"$": "Av. Ciutadella nº 22, Barcelona"
+			},
+			"bank": "0081",
+			"office": "0057",
+			"accountNumber": "0001376147",
+			"commissions": "0.00",
+			"observations": {
+				"$": ""
+			}
+		}, {
+			"conceptExtendedRest": "REM. CHEQUES",
+			"currencyCode": "EUR",
+			"complementaryInf1": {
+				"$": "\n\n\n\n"
+			},
+			"compositionDescription": "PROPIOS",
+			"operationNetAmount": "100.00",
+			"currentBalance": "100.00",
+			"contableDate": "2015-06-10",
+			"beneficiary": "Name of person",
+			"address": {
+				"$": "Plaza Cataluña nº 1, Barcelona"
+			},
+			"bank": "0081",
+			"office": "0057",
+			"accountNumber": "0001376147",
+			"commissions": "0.00",
+			"observations": {
+				"$": ""
+			}
+		}, {
+			"conceptExtendedRest": "CHEQUE",
+			"currencyCode": "EUR",
+			"complementaryInf1": {
+				"$": "\n\n\n\n"
+			},
+			"compositionDescription": "0000357",
+			"operationNetAmount": "-2500.00",
+			"currentBalance": "-2400.00",
+			"contableDate": "2015-07-21",
+			"beneficiary": "Name of person",
+			"address": {
+				"$": "Calle de prueba nº 22, Barcelona"
+			},
+			"bank": "0081",
+			"office": "0057",
+			"accountNumber": "0001376147",
+			"commissions": "0.00",
+			"observations": {
+				"$": ""
+			}
+		}, {
+			"conceptExtendedRest": "REM. CHEQUES",
+			"currencyCode": "EUR",
+			"complementaryInf1": {
+				"$": "\n\n\n\n"
+			},
+			"compositionDescription": "PROPIOS",
+			"operationNetAmount": "3000.00",
+			"currentBalance": "600.00",
+			"contableDate": "2015-07-21",
+			"beneficiary": "Name of person",
+			"address": {
+				"$": "Calle de prueba nº 22, Barcelona"
+			},
+			"bank": "0081",
+			"office": "0057",
+			"accountNumber": "0001376147",
+			"commissions": "0.00",
+			"observations": {
+				"$": ""
+			}
+		}, {
+			"conceptExtendedRest": "REM. CHEQUES",
+			"currencyCode": "EUR",
+			"complementaryInf1": {
+				"$": "\n\n\n\n"
+			},
+			"compositionDescription": "PROPIOS",
+			"operationNetAmount": "300.00",
+			"currentBalance": "900.00",
+			"contableDate": "2015-07-21",
+			"beneficiary": "Name of person",
+			"address": {
+				"$": "Calle de prueba nº 22, Barcelona"
+			},
+			"bank": "0081",
+			"office": "0057",
+			"accountNumber": "0001376147",
+			"commissions": "0.00",
+			"observations": {
+				"$": ""
+			}
+		}, {
+			"conceptExtendedRest": "REM. CHEQUES",
+			"currencyCode": "EUR",
+			"complementaryInf1": {
+				"$": "\n\n\n\n"
+			},
+			"compositionDescription": "PROPIOS",
+			"operationNetAmount": "100.00",
+			"currentBalance": "100.00",
+			"contableDate": "2015-06-10",
+			"beneficiary": "Name of person",
+			"address": {
+				"$": "Calle de prueba nº 22, Barcelona"
+			},
+			"bank": "0081",
+			"office": "0057",
+			"accountNumber": "0001376147",
+			"commissions": "0.00",
+			"observations": {
+				"$": ""
+			}
+		}, {
+			"conceptExtendedRest": "CHEQUE",
+			"currencyCode": "EUR",
+			"complementaryInf1": {
+				"$": "\n\n\n\n"
+			},
+			"compositionDescription": "0000357",
+			"operationNetAmount": "-2500.00",
+			"currentBalance": "-2400.00",
+			"contableDate": "2015-07-21",
+			"beneficiary": "Name of person",
+			"address": {
+				"$": "Calle de Ernest el sabio nº 22, Valencia"
+			},
+			"bank": "0081",
+			"office": "0057",
+			"accountNumber": "0001376147",
+			"commissions": "0.00",
+			"observations": {
+				"$": ""
+			}
+		}, {
+			"conceptExtendedRest": "REM. CHEQUES",
+			"currencyCode": "EUR",
+			"complementaryInf1": {
+				"$": "\n\n\n\n"
+			},
+			"compositionDescription": "PROPIOS",
+			"operationNetAmount": "3000.00",
+			"currentBalance": "600.00",
+			"contableDate": "2015-07-21",
+			"beneficiary": "Name of person",
+			"address": {
+				"$": "Calle de prueba nº 22, Barcelona"
+			},
+			"bank": "0081",
+			"office": "0057",
+			"accountNumber": "0001376147",
+			"commissions": "0.00",
+			"observations": {
+				"$": ""
+			}
+		}, {
+			"conceptExtendedRest": "REM. CHEQUES",
+			"currencyCode": "EUR",
+			"complementaryInf1": {
+				"$": "\n\n\n\n"
+			},
+			"compositionDescription": "PROPIOS",
+			"operationNetAmount": "300.00",
+			"currentBalance": "900.00",
+			"contableDate": "2015-07-21",
+			"beneficiary": "Name of person",
+			"address": {
+				"$": "Calle de prueba nº 22, Barcelona"
+			},
+			"bank": "0081",
+			"office": "0057",
+			"accountNumber": "0001376147",
+			"commissions": "0.00",
+			"observations": {
+				"$": ""
+			}
+		}, {
+			"conceptExtendedRest": "REM. CHEQUES",
+			"currencyCode": "EUR",
+			"complementaryInf1": {
+				"$": "\n\n\n\n"
+			},
+			"compositionDescription": "PROPIOS",
+			"operationNetAmount": "100.00",
+			"currentBalance": "100.00",
+			"contableDate": "2015-06-10",
+			"beneficiary": "Name of person",
+			"address": {
+				"$": "Calle de prueba nº 22, Barcelona"
+			},
+			"bank": "0081",
+			"office": "0057",
+			"accountNumber": "0001376147",
+			"commissions": "0.00",
+			"observations": {
+				"$": ""
+			}
+		}, {
+			"conceptExtendedRest": "CHEQUE",
+			"currencyCode": "EUR",
+			"complementaryInf1": {
+				"$": "\n\n\n\n"
+			},
+			"compositionDescription": "0000357",
+			"operationNetAmount": "-2500.00",
+			"currentBalance": "-2400.00",
+			"contableDate": "2015-07-21",
+			"beneficiary": "Name of person",
+			"address": {
+				"$": "Calle de prueba nº 22, Barcelona"
+			},
+			"bank": "0081",
+			"office": "0057",
+			"accountNumber": "0001376147",
+			"commissions": "0.00",
+			"observations": {
+				"$": ""
+			}
+		}, {
+			"conceptExtendedRest": "REM. CHEQUES",
+			"currencyCode": "EUR",
+			"complementaryInf1": {
+				"$": "\n\n\n\n"
+			},
+			"compositionDescription": "PROPIOS",
+			"operationNetAmount": "3000.00",
+			"currentBalance": "600.00",
+			"contableDate": "2015-07-21",
+			"beneficiary": "Name of person",
+			"address": {
+				"$": "Calle de prueba nº 22, Barcelona"
+			},
+			"bank": "0081",
+			"office": "0057",
+			"accountNumber": "0001376147",
+			"commissions": "0.00",
+			"observations": {
+				"$": ""
+			}
+		}, {
+			"conceptExtendedRest": "REM. CHEQUES",
+			"currencyCode": "EUR",
+			"complementaryInf1": {
+				"$": "\n\n\n\n"
+			},
+			"compositionDescription": "PROPIOS",
+			"operationNetAmount": "300.00",
+			"currentBalance": "900.00",
+			"contableDate": "2015-07-21",
+			"beneficiary": "Name of person",
+			"address": {
+				"$": "Calle de prueba nº 22, Barcelona"
+			},
+			"bank": "0081",
+			"office": "0057",
+			"accountNumber": "0001376147",
+			"commissions": "0.00",
+			"observations": {
+				"$": ""
+			}
+		}],
+		"totalRowsNumber": "30",
+		"contractSituation": "A",
+		"accountCCC": "0081060261631392992"
+	},
+	"tns:headers": {
+		"HEADER.USER.NAME": "AUMMYAPP",
+		"HEADER.SERVICE_COUNTRY": "ES",
+		"HEADER.TRACKING_ID": "c7f0cea4-4466-4573-9ebf-f5d3f61d8c4b",
+		"HEADER.USER.EXTERNAL_ID": "exti",
+		"HEADER.STATUS": "0",
+		"HEADER.SESSION_ID": "bbe3e2ab-9741-4f2c-81f5-3bbb714f30c4",
+		"HEADER.SERVICE_LANGUAGE": "SPA",
+		"HEADER.USER.EXTERNAL_TYPE": "et"
+	}
+}]

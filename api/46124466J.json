@@ -1,0 +1,158 @@
+[{
+	"tns:response": {
+		"Accounts": [{
+			"tipoProducto": "DV",
+			"balance": "667.19000000000005456968210637569427490234375",
+			"numTitulares": "1",
+			"accountNumber": "ES660081060261631392992",
+			"description": "Account 0",
+			"owner": "Name of person 0",
+			"checkDigit": "61",
+			"branch": "0602",
+			"bank": "0081",
+			"iban": {
+				"accountNumber": "631392992",
+				"checkDigit": "61",
+				"countryCode": "ES"
+			},
+			"currency": "EUR"
+		}, {
+			"tipoProducto": "DV",
+			"balance": "6977.579999999999927240423858165740966796875",
+			"numTitulares": "4",
+			"accountNumber": "ES7300817055720006000413",
+			"description": "Account 1",
+			"owner": "Name of person 1",
+			"checkDigit": "72",
+			"branch": "7055",
+			"bank": "0081",
+			"iban": {
+				"accountNumber": "0006000413",
+				"checkDigit": "72",
+				"countryCode": "ES"
+			},
+			"currency": "EUR"
+		}, {
+			"tipoProducto": "DV",
+			"balance": "197.8600000000000136424205265939235687255859375",
+			"numTitulares": "9",
+			"accountNumber": "ES6600810602620001010310",
+			"description": "Account 2",
+			"owner": "Name of person 2",
+			"checkDigit": "62",
+			"branch": "0602",
+			"bank": "0081",
+			"iban": {
+				"accountNumber": "0001010310",
+				"checkDigit": "62",
+				"countryCode": "ES"
+			},
+			"currency": "EUR"
+		}, {
+			"tipoProducto": "DV",
+			"balance": "851.30999999999994543031789362430572509765625",
+			"numTitulares": "6",
+			"accountNumber": "ES660081060269170211265",
+			"description": "Account 3",
+			"owner": "Name of person 3",
+			"checkDigit": "69",
+			"branch": "0602",
+			"bank": "0081",
+			"iban": {
+				"accountNumber": "170211265",
+				"checkDigit": "69",
+				"countryCode": "ES"
+			},
+			"currency": "EUR"
+		}, {
+			"tipoProducto": "DV",
+			"balance": "899.470000000000027284841053187847137451171875",
+			"numTitulares": "6",
+			"accountNumber": "ES660081060263004439717",
+			"description": "Account 4",
+			"owner": "Name of person 4",
+			"checkDigit": "63",
+			"branch": "0602",
+			"bank": "0081",
+			"iban": {
+				"accountNumber": "004439717",
+				"checkDigit": "63",
+				"countryCode": "ES"
+			},
+			"currency": "EUR"
+		}, {
+			"tipoProducto": "DV",
+			"balance": "1075753.69999999995343387126922607421875",
+			"numTitulares": "5",
+			"accountNumber": "ES660081060269991153098",
+			"description": "Account 5",
+			"owner": "Name of person 5",
+			"checkDigit": "69",
+			"branch": "0602",
+			"bank": "0081",
+			"iban": {
+				"accountNumber": "991153098",
+				"checkDigit": "69",
+				"countryCode": "ES"
+			},
+			"currency": "EUR"
+		}, {
+			"tipoProducto": "DV",
+			"balance": "9965.139999999999417923390865325927734375",
+			"numTitulares": "0",
+			"accountNumber": "ES660081060263186633873",
+			"description": "Account 6",
+			"owner": "Name of person 6",
+			"checkDigit": "63",
+			"branch": "0602",
+			"bank": "0081",
+			"iban": {
+				"accountNumber": "186633873",
+				"checkDigit": "63",
+				"countryCode": "ES"
+			},
+			"currency": "EUR"
+		}, {
+			"tipoProducto": "DV",
+			"balance": "472318.0399999999790452420711517333984375",
+			"numTitulares": "0",
+			"accountNumber": "ES660081060265467985358",
+			"description": "Account 7",
+			"owner": "Name of person 7",
+			"checkDigit": "65",
+			"branch": "0602",
+			"bank": "0081",
+			"iban": {
+				"accountNumber": "467985358",
+				"checkDigit": "65",
+				"countryCode": "ES"
+			},
+			"currency": "EUR"
+		}, {
+			"tipoProducto": "DV",
+			"balance": "6733.7100000000000363797880709171295166015625",
+			"numTitulares": "6",
+			"accountNumber": "ES660081060261851754572",
+			"description": "Acount 8",
+			"owner": "Name of person 8",
+			"checkDigit": "61",
+			"branch": "0602",
+			"bank": "0081",
+			"iban": {
+				"accountNumber": "851754572",
+				"checkDigit": "61",
+				"countryCode": "ES"
+			},
+			"currency": "EUR"
+		}]
+	},
+	"tns:headers": {
+		"HEADER.USER.NAME": "User",
+		"HEADER.SERVICE_COUNTRY": "ES",
+		"HEADER.TRACKING_ID": "23bbdffb-cc07-4796-8790-778103893cf8",
+		"HEADER.USER.EXTERNAL_ID": "ex",
+		"HEADER.STATUS": "0",
+		"HEADER.SERVICE_LANGUAGE": "es",
+		"HEADER.USER.EXTERNAL_TYPE": "et"
+	}
+}]

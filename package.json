@@ -1,0 +1,34 @@
+{
+  "name": "test2",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "user/repo"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "jit-grunt": "0.9.1",
+    "load-grunt-configs": "0.4.3",
+    "lodash": "~4.11.0",
+    "proteo-npm-grunt-projects":  "1.0.1-42",
+    "protractor": "4.0.4",
+    "cucumber": "0.9.1",
+    "protractor-cucumber-framework": "~0.6.0",
+    "karma-phantomjs-launcher": "~1.0.2",
+    "karma-ng-html2js-preprocessor": "^0.2.1",
+    "karma-sonarqube-unit-reporter": "0.0.7",
+    "time-grunt": "1.1.1"
+  },
+  "engines": {
+    "node": ">=0.10.0",
+    "npm": ">=1.4.5"
+  },
+  "scripts": {
+    "postinstall": "node node_modules/protractor/bin/webdriver-manager update --ie --alternate_cdn=http://172.22.62.138:8081/artifactory/webdriver-manager-release/",
+    "test": "grunt test",
+    "lint": "grunt lint"
+  },
+  "dependencies": {
+    "angular-uuid": "0.0.2"
+  }
+}

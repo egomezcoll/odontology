@@ -1,0 +1,163 @@
+<!doctype html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js">
+<!--<![endif]-->
+
+<head>
+    <title>Master de implantología y protesis oral</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+    <!-- build:css styles/css/vendor/vendor.min.css -->
+    <!-- bower:css -->
+    <link rel="stylesheet" href="bower_components/appverse.notifications/dist/notification-bar.css" />
+    <link rel="stylesheet" href="bower_components/angular-ui-select/dist/select.min.css" />
+    <link rel="stylesheet" href="bower_components/selectize/dist/css/selectize.css" />
+    <!-- endbower -->
+    <!-- endbuild -->
+
+    <!-- build:css styles/css/styles.min.css -->
+    <!-- start css template tags -->
+
+    <link rel="stylesheet" type="text/css" href="styles/css/main.css" />
+
+    <!-- end css template tags -->
+    <!-- endbuild -->
+</head>
+
+<!--Include the module with the app scope-->
+
+
+<body class="fade-in">
+    <!--[if lt IE 7]>
+          <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+
+    <!--[if lt IE 10]>
+         <script src="bower_components/es5-shim/es5-shim.js"></script>
+         <script src="bower_components/es5-shim/es5-sham.js"></script>
+         <script src="bower_components/json3/lib/json3.min.js"></script>
+         <script src="bower_components/placeholders/dist/placeholders.min.js"></script>
+       <![endif]-->
+
+    <!-- HEADER/NAVIGATION BAR -->
+    <div class="container">
+        <nav class="navbar navbar-default navbar-fixed-top">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <!-- ui-sref is a directive from ui-router for linking a state location with an anchor link.
+                    We should almost always use ui-sref instead of href on our links when we want
+                    then to navigate to a state. When this link is clicked it will take the application
+                    to the 'home' state. Behind the scenes the directive also adds the correct href attr
+                    and url. -->
+                <a class="navbar-brand" ui-sref="home"></a>
+            </div>
+            <div class="collapse navbar-collapse pull-right" id="main-navbar-collapse">
+                <ul class="nav navbar-nav" ng-controller="homeController">
+                    <!-- Here you can see ui-sref in action again. Also notice the use of $state.includes, which
+                    will set the links to 'active' if, for example on the first link, 'contacts' or any of
+                    its descendant states are activated. -->
+                    <li data-ng-class="{ active: current==0 }">
+                        <a  ng-click="gotoAnchor(0)"> Inicio</a>
+                    </li>
+                    <li data-ng-class="{ active: current==1 }">
+                        <a ng-click="gotoAnchor(1)"> Info. general</a>
+                    </li>
+                    <li data-ng-class="{ active: current==2 }">
+                        <a ng-click="gotoAnchor(2)"> Noticias</a>
+                    </li>
+                    <li data-ng-class="{ active: current==3 }">
+                        <a ng-click="gotoAnchor(3)"> Plan de estudios</a>
+                    </li>
+                    <li data-ng-class="{ active: current==4 }">
+                        <a ng-click="gotoAnchor(4)"> Equipo docente</a>
+                    </li>
+                    <li data-ng-class="{ active: current==5 }">
+                        <a ng-click="gotoAnchor(5)"> Alumnos</a>
+                    </li>
+                    <li data-ng-class="{ active: current==6 }">
+                        <a ng-click="gotoAnchor(6)"> Área clínica</a>
+                    </li>
+                    <li data-ng-class="{ active: current==7 }">
+                        <a ng-click="gotoAnchor(7)"> Contacto</a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </div>
+
+    <div class="container-fluid mainview">
+        
+                <!-- MAIN INSERTION POINT
+             Here is the main ui-view (it is unnamed) as the main content insertion point.
+             It replaces the default Angular's ng-view directive.
+             It will be populate by its immediate children's templates/views unless otherwise
+             explicitly named views are targeted.
+        -->
+                <div ui-view="" autoscroll="false"></div>
+
+    </div>
+    <!--<footer class="sticky-footer">
+        <div class="container text-center">
+            <ul class="links">
+                <li translate=""><a>MENU_AVISOLEGAL</a></li>
+                <li translate=""><a>MENU_PRIVACIDAD</a></li>
+                <li translate=""><a>MENU_SEGURIDAD</a></li>
+                <li translate=""><a>MENU_RATES</a></li>
+            </ul>
+        </div>
+    </footer>-->
+    <div notification=""></div>
+
+    <!-- build:js scripts/scripts.js -->
+    <!-- bower:js -->
+    <script src="bower_components/angular/angular.js"></script>
+    <script src="bower_components/angular-cache/dist/angular-cache.js"></script>
+    <script src="bower_components/angular-dynamic-locale/src/tmhDynamicLocale.js"></script>
+    <script src="bower_components/angular-translate/angular-translate.js"></script>
+    <script src="bower_components/angular-translate-loader-static-files/angular-translate-loader-static-files.js"></script>
+    <script src="bower_components/angular-ui-router/release/angular-ui-router.js"></script>
+    <script src="bower_components/appverse-web-html5-core/dist/appverse/appverse.min.js"></script>
+    <script src="bower_components/appverse-web-html5-core/dist/appverse-utils/appverse-utils.min.js"></script>
+    <script src="bower_components/appverse-web-html5-core/dist/appverse-router/appverse-router.min.js"></script>
+    <script src="bower_components/appverse-web-html5-core/dist/appverse-cache/appverse-cache.min.js"></script>
+    <script src="bower_components/appverse-web-html5-core/dist/appverse-logging/appverse-logging.js"></script>
+    <script src="bower_components/appverse-web-html5-core/dist/appverse-detection/appverse-detection.js"></script>
+    <script src="bower_components/appverse-web-html5-core/dist/appverse-translate/appverse-translate.min.js"></script>
+    <script src="bower_components/classie/classie.js"></script>
+    <script src="bower_components/appverse.notifications/dist/modernizr-custom.js"></script>
+    <script src="bower_components/appverse.notifications/dist/notification-fx.js"></script>
+    <script src="bower_components/appverse.notifications/dist/appverse.notifications.min.js"></script>
+    <script src="bower_components/proteo.tracking-id/dist/angular-uuid/angular-uuid.js"></script>
+    <script src="bower_components/proteo.tracking-id/dist/proteo.tracking-id.js"></script>
+    <script src="bower_components/proteo.invocation-service/dist/proteo.invocation-service.js"></script>
+    <script src="bower_components/angular-ui-select/dist/select.min.js"></script>
+    <script src="bower_components/angular-resource/angular-resource.js"></script>
+    <script src="bower_components/angular-filter/dist/angular-filter.js"></script>
+    <script src="bower_components/angular-ripple/angular-ripple.js"></script>
+    <script src="bower_components/jquery/dist/jquery.js"></script>
+    <script src="bower_components/bootstrap-sass/assets/javascripts/bootstrap.js"></script>
+    <script src="bower_components/angular-sanitize/angular-sanitize.js"></script>
+    <script src="bower_components/angular-bootstrap/ui-bootstrap-tpls.js"></script>
+    <script src="bower_components/angular-translate-handler-log/angular-translate-handler-log.js"></script>
+    <script src="bower_components/ngmap/build/scripts/ng-map.js"></script>
+    <!-- endbower -->
+    <script src="app.js"></script>
+    <script src="states/app-states.js"></script><!-- start auto template tags -->
+<script type="text/javascript" src="sourcemaps/home.min.js"></script>
+<script type="text/javascript" src="sourcemaps/translation.min.js"></script>
+<!-- end auto template tags -->
+    <!-- endbuild -->
+</body>
+
+</html>

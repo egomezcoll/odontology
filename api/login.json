@@ -1,0 +1,14 @@
+[{
+    "tns:response": {
+        "operation1Response": {
+            "outputDataLogon": {
+                "username": "AUMMYAPP",
+                "sessionId": "6228f79c-4244-4a98-9015-3a32039ba9d2",
+                "lasttime":  "",
+                "lastdate": "",
+                "dni": "46124466J"
+            }
+        }
+    },
+    "tns:headers": {}
+}]

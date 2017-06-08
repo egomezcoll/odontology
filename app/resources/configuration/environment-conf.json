@@ -1,0 +1,63 @@
+{
+    "REST_CONFIG": {
+        "BaseUrl": "api",
+        "RequestSuffix": ""
+    },
+    "REMOTE_CONFIG": {
+        "enabled": false,
+        "url": "api/configserver",
+        "failFast": true,
+        "merge": true
+    },
+    "APP_CONFIG": {
+        "Channel": "web",
+        "Procedence": "tfem",
+        "APP_ID": "ARQ_APP",
+        "SHOW_NOTIFICATIONS": true,
+        "HEART_BEAT": false
+    },
+    "CACHE_CONFIG": {
+        "operations": {}
+    },
+    "VERSION_CONFIG": {
+        "proteo4": "1.0.4-11",
+        "application": "0.0.1"
+    },
+    "AUDIT_CONFIG": {
+        "AuditEndPoint": "api/loggingserver-v1/add/Channel/AuditMessage",
+        "AuditNavigationStart": true,
+        "AuditNavigationError": true,
+        "AuditNavigationEnd": true,
+        "AuditServiceStart": true,
+        "AuditServiceError": true,
+        "AuditServiceEnd": true
+    },
+    "TSB_LOGGING_CONFIG": {
+        "ServerEnabled": false,
+        "LogServerEndpoint": "api/loggingserver-v1/add/Channel/LogMessage",
+        "CustomLogPreffix": "APPLOG",
+        "EnabledLogLevel": true,
+        "EnabledErrorLevel": true,
+        "EnabledDebugLevel": true,
+        "EnabledWarnLevel": true,
+        "EnabledInfoLevel": true,
+        "LogDateTimeFormat": "%Y-%M-%d %h:%m:%s:%z",
+        "LogTextFormat": "'"
+    },
+    "I18N_CONFIG": {
+        "localeLocationPattern": "resources/i18n/angular/angular-locale_{{locale}}.js"
+    },
+    "AUTHORIZATION_CONFIG": {
+        "TemplateUrl": "components/authorization/authorization-modal-template.html"
+    },
+    "SERVICE_INVOCATION_CONFIG": {
+       "404": {
+           "resolve_promise": false,
+           "status_message": "PAGE_NOT_FOUND"
+       },
+       "500": {
+           "resolve_promise": false,
+           "status_message": "SERVER_ERROR"
+       }
+   }
+}

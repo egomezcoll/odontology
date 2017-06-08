@@ -1,0 +1,8 @@
+{
+  "directory": "app/bower_components",
+  "timeout": 300000,
+  "resolvers": [
+    "bower-art-resolver"
+  ],
+  "registry": "http://172.22.62.138:8081/artifactory/api/bower/bower-release"
+}

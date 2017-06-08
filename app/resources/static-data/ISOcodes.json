@@ -1,0 +1,1246 @@
+[{
+    "name": "Afghanistan",
+    "ISO3166-1-Alpha-2": "AF",
+    "ISO3166-1-Alpha-3": "AFG",
+    "ISO3166-1-numeric": 4
+}, {
+    "name": "Albania",
+    "ISO3166-1-Alpha-2": "AL",
+    "ISO3166-1-Alpha-3": "ALB",
+    "ISO3166-1-numeric": 8
+}, {
+    "name": "Algeria",
+    "ISO3166-1-Alpha-2": "DZ",
+    "ISO3166-1-Alpha-3": "DZA",
+    "ISO3166-1-numeric": 12
+}, {
+    "name": "American Samoa",
+    "ISO3166-1-Alpha-2": "AS",
+    "ISO3166-1-Alpha-3": "ASM",
+    "ISO3166-1-numeric": 16
+}, {
+    "name": "Andorra",
+    "ISO3166-1-Alpha-2": "AD",
+    "ISO3166-1-Alpha-3": "AND",
+    "ISO3166-1-numeric": 20
+}, {
+    "name": "Angola",
+    "ISO3166-1-Alpha-2": "AO",
+    "ISO3166-1-Alpha-3": "AGO",
+    "ISO3166-1-numeric": 24
+}, {
+    "name": "Anguilla",
+    "ISO3166-1-Alpha-2": "AI",
+    "ISO3166-1-Alpha-3": "AIA",
+    "ISO3166-1-numeric": 660
+}, {
+    "name": "Antarctica",
+    "ISO3166-1-Alpha-2": "AQ",
+    "ISO3166-1-Alpha-3": "ATA",
+    "ISO3166-1-numeric": 10
+}, {
+    "name": "Antigua and Barbuda",
+    "ISO3166-1-Alpha-2": "AG",
+    "ISO3166-1-Alpha-3": "ATG",
+    "ISO3166-1-numeric": 28
+}, {
+    "name": "Argentina",
+    "ISO3166-1-Alpha-2": "AR",
+    "ISO3166-1-Alpha-3": "ARG",
+    "ISO3166-1-numeric": 32
+}, {
+    "name": "Armenia",
+    "ISO3166-1-Alpha-2": "AM",
+    "ISO3166-1-Alpha-3": "ARM",
+    "ISO3166-1-numeric": 51
+}, {
+    "name": "Aruba",
+    "ISO3166-1-Alpha-2": "AW",
+    "ISO3166-1-Alpha-3": "ABW",
+    "ISO3166-1-numeric": 533
+}, {
+    "name": "Australia",
+    "ISO3166-1-Alpha-2": "AU",
+    "ISO3166-1-Alpha-3": "AUS",
+    "ISO3166-1-numeric": 36
+}, {
+    "name": "Austria",
+    "ISO3166-1-Alpha-2": "AT",
+    "ISO3166-1-Alpha-3": "AUT",
+    "ISO3166-1-numeric": 40
+}, {
+    "name": "Azerbaijan",
+    "ISO3166-1-Alpha-2": "AZ",
+    "ISO3166-1-Alpha-3": "AZE",
+    "ISO3166-1-numeric": 31
+}, {
+    "name": "Bahamas",
+    "ISO3166-1-Alpha-2": "BS",
+    "ISO3166-1-Alpha-3": "BHS",
+    "ISO3166-1-numeric": 44
+}, {
+    "name": "Bahrain",
+    "ISO3166-1-Alpha-2": "BH",
+    "ISO3166-1-Alpha-3": "BHR",
+    "ISO3166-1-numeric": 48
+}, {
+    "name": "Bangladesh",
+    "ISO3166-1-Alpha-2": "BD",
+    "ISO3166-1-Alpha-3": "BGD",
+    "ISO3166-1-numeric": 50
+}, {
+    "name": "Barbados",
+    "ISO3166-1-Alpha-2": "BB",
+    "ISO3166-1-Alpha-3": "BRB",
+    "ISO3166-1-numeric": 52
+}, {
+    "name": "Belarus",
+    "ISO3166-1-Alpha-2": "BY",
+    "ISO3166-1-Alpha-3": "BLR",
+    "ISO3166-1-numeric": 112
+}, {
+    "name": "Belgium",
+    "ISO3166-1-Alpha-2": "BE",
+    "ISO3166-1-Alpha-3": "BEL",
+    "ISO3166-1-numeric": 56
+}, {
+    "name": "Belize",
+    "ISO3166-1-Alpha-2": "BZ",
+    "ISO3166-1-Alpha-3": "BLZ",
+    "ISO3166-1-numeric": 84
+}, {
+    "name": "Benin",
+    "ISO3166-1-Alpha-2": "BJ",
+    "ISO3166-1-Alpha-3": "BEN",
+    "ISO3166-1-numeric": 204
+}, {
+    "name": "Bermuda",
+    "ISO3166-1-Alpha-2": "BM",
+    "ISO3166-1-Alpha-3": "BMU",
+    "ISO3166-1-numeric": 60
+}, {
+    "name": "Bhutan",
+    "ISO3166-1-Alpha-2": "BT",
+    "ISO3166-1-Alpha-3": "BTN",
+    "ISO3166-1-numeric": 64
+}, {
+    "name": "Bolivia, Plurinational State of",
+    "ISO3166-1-Alpha-2": "BO",
+    "ISO3166-1-Alpha-3": "BOL",
+    "ISO3166-1-numeric": 68
+}, {
+    "name": "Bonaire, Sint Eustatius and Saba",
+    "ISO3166-1-Alpha-2": "BQ",
+    "ISO3166-1-Alpha-3": "BES",
+    "ISO3166-1-numeric": 535
+}, {
+    "name": "Bosnia and Herzegovina",
+    "ISO3166-1-Alpha-2": "BA",
+    "ISO3166-1-Alpha-3": "BIH",
+    "ISO3166-1-numeric": 70
+}, {
+    "name": "Botswana",
+    "ISO3166-1-Alpha-2": "BW",
+    "ISO3166-1-Alpha-3": "BWA",
+    "ISO3166-1-numeric": 72
+}, {
+    "name": "Bouvet Island",
+    "ISO3166-1-Alpha-2": "BV",
+    "ISO3166-1-Alpha-3": "BVT",
+    "ISO3166-1-numeric": 74
+}, {
+    "name": "Brazil",
+    "ISO3166-1-Alpha-2": "BR",
+    "ISO3166-1-Alpha-3": "BRA",
+    "ISO3166-1-numeric": 76
+}, {
+    "name": "British Indian Ocean Territory",
+    "ISO3166-1-Alpha-2": "IO",
+    "ISO3166-1-Alpha-3": "IOT",
+    "ISO3166-1-numeric": 86
+}, {
+    "name": "Brunei Darussalam",
+    "ISO3166-1-Alpha-2": "BN",
+    "ISO3166-1-Alpha-3": "BRN",
+    "ISO3166-1-numeric": 96
+}, {
+    "name": "Bulgaria",
+    "ISO3166-1-Alpha-2": "BG",
+    "ISO3166-1-Alpha-3": "BGR",
+    "ISO3166-1-numeric": 100
+}, {
+    "name": "Burkina Faso",
+    "ISO3166-1-Alpha-2": "BF",
+    "ISO3166-1-Alpha-3": "BFA",
+    "ISO3166-1-numeric": 854
+}, {
+    "name": "Burundi",
+    "ISO3166-1-Alpha-2": "BI",
+    "ISO3166-1-Alpha-3": "BDI",
+    "ISO3166-1-numeric": 108
+}, {
+    "name": "Cambodia",
+    "ISO3166-1-Alpha-2": "KH",
+    "ISO3166-1-Alpha-3": "KHM",
+    "ISO3166-1-numeric": 116
+}, {
+    "name": "Cameroon",
+    "ISO3166-1-Alpha-2": "CM",
+    "ISO3166-1-Alpha-3": "CMR",
+    "ISO3166-1-numeric": 120
+}, {
+    "name": "Canada",
+    "ISO3166-1-Alpha-2": "CA",
+    "ISO3166-1-Alpha-3": "CAN",
+    "ISO3166-1-numeric": 124
+}, {
+    "name": "Cape Verde",
+    "ISO3166-1-Alpha-2": "CV",
+    "ISO3166-1-Alpha-3": "CPV",
+    "ISO3166-1-numeric": 132
+}, {
+    "name": "Cayman Islands",
+    "ISO3166-1-Alpha-2": "KY",
+    "ISO3166-1-Alpha-3": "CYM",
+    "ISO3166-1-numeric": 136
+}, {
+    "name": "Central African Republic",
+    "ISO3166-1-Alpha-2": "CF",
+    "ISO3166-1-Alpha-3": "CAF",
+    "ISO3166-1-numeric": 140
+}, {
+    "name": "Chad",
+    "ISO3166-1-Alpha-2": "TD",
+    "ISO3166-1-Alpha-3": "TCD",
+    "ISO3166-1-numeric": 148
+}, {
+    "name": "Chile",
+    "ISO3166-1-Alpha-2": "CL",
+    "ISO3166-1-Alpha-3": "CHL",
+    "ISO3166-1-numeric": 152
+}, {
+    "name": "China",
+    "ISO3166-1-Alpha-2": "CN",
+    "ISO3166-1-Alpha-3": "CHN",
+    "ISO3166-1-numeric": 156
+}, {
+    "name": "Christmas Island",
+    "ISO3166-1-Alpha-2": "CX",
+    "ISO3166-1-Alpha-3": "CXR",
+    "ISO3166-1-numeric": 162
+}, {
+    "name": "Cocos (Keeling) Islands",
+    "ISO3166-1-Alpha-2": "CC",
+    "ISO3166-1-Alpha-3": "CCK",
+    "ISO3166-1-numeric": 166
+}, {
+    "name": "Colombia",
+    "ISO3166-1-Alpha-2": "CO",
+    "ISO3166-1-Alpha-3": "COL",
+    "ISO3166-1-numeric": 170
+}, {
+    "name": "Comoros",
+    "ISO3166-1-Alpha-2": "KM",
+    "ISO3166-1-Alpha-3": "COM",
+    "ISO3166-1-numeric": 174
+}, {
+    "name": "Congo",
+    "ISO3166-1-Alpha-2": "CG",
+    "ISO3166-1-Alpha-3": "COG",
+    "ISO3166-1-numeric": 178
+}, {
+    "name": "Congo, the Democratic Republic of the",
+    "ISO3166-1-Alpha-2": "CD",
+    "ISO3166-1-Alpha-3": "COD",
+    "ISO3166-1-numeric": 180
+}, {
+    "name": "Cook Islands",
+    "ISO3166-1-Alpha-2": "CK",
+    "ISO3166-1-Alpha-3": "COK",
+    "ISO3166-1-numeric": 184
+}, {
+    "name": "Costa Rica",
+    "ISO3166-1-Alpha-2": "CR",
+    "ISO3166-1-Alpha-3": "CRI",
+    "ISO3166-1-numeric": 188
+}, {
+    "name": "Croatia",
+    "ISO3166-1-Alpha-2": "HR",
+    "ISO3166-1-Alpha-3": "HRV",
+    "ISO3166-1-numeric": 191
+}, {
+    "name": "Cuba",
+    "ISO3166-1-Alpha-2": "CU",
+    "ISO3166-1-Alpha-3": "CUB",
+    "ISO3166-1-numeric": 192
+}, {
+    "name": "Curaçao",
+    "ISO3166-1-Alpha-2": "CW",
+    "ISO3166-1-Alpha-3": "CUW",
+    "ISO3166-1-numeric": 531
+}, {
+    "name": "Cyprus",
+    "ISO3166-1-Alpha-2": "CY",
+    "ISO3166-1-Alpha-3": "CYP",
+    "ISO3166-1-numeric": 196
+}, {
+    "name": "Czech Republic",
+    "ISO3166-1-Alpha-2": "CZ",
+    "ISO3166-1-Alpha-3": "CZE",
+    "ISO3166-1-numeric": 203
+}, {
+    "name": "Côte d'Ivoire",
+    "ISO3166-1-Alpha-2": "CI",
+    "ISO3166-1-Alpha-3": "CIV",
+    "ISO3166-1-numeric": 384
+}, {
+    "name": "Denmark",
+    "ISO3166-1-Alpha-2": "DK",
+    "ISO3166-1-Alpha-3": "DNK",
+    "ISO3166-1-numeric": 208
+}, {
+    "name": "Djibouti",
+    "ISO3166-1-Alpha-2": "DJ",
+    "ISO3166-1-Alpha-3": "DJI",
+    "ISO3166-1-numeric": 262
+}, {
+    "name": "Dominica",
+    "ISO3166-1-Alpha-2": "DM",
+    "ISO3166-1-Alpha-3": "DMA",
+    "ISO3166-1-numeric": 212
+}, {
+    "name": "Dominican Republic",
+    "ISO3166-1-Alpha-2": "DO",
+    "ISO3166-1-Alpha-3": "DOM",
+    "ISO3166-1-numeric": 214
+}, {
+    "name": "Ecuador",
+    "ISO3166-1-Alpha-2": "EC",
+    "ISO3166-1-Alpha-3": "ECU",
+    "ISO3166-1-numeric": 218
+}, {
+    "name": "Egypt",
+    "ISO3166-1-Alpha-2": "EG",
+    "ISO3166-1-Alpha-3": "EGY",
+    "ISO3166-1-numeric": 818
+}, {
+    "name": "El Salvador",
+    "ISO3166-1-Alpha-2": "SV",
+    "ISO3166-1-Alpha-3": "SLV",
+    "ISO3166-1-numeric": 222
+}, {
+    "name": "Equatorial Guinea",
+    "ISO3166-1-Alpha-2": "GQ",
+    "ISO3166-1-Alpha-3": "GNQ",
+    "ISO3166-1-numeric": 226
+}, {
+    "name": "Eritrea",
+    "ISO3166-1-Alpha-2": "ER",
+    "ISO3166-1-Alpha-3": "ERI",
+    "ISO3166-1-numeric": 232
+}, {
+    "name": "Estonia",
+    "ISO3166-1-Alpha-2": "EE",
+    "ISO3166-1-Alpha-3": "EST",
+    "ISO3166-1-numeric": 233
+}, {
+    "name": "Ethiopia",
+    "ISO3166-1-Alpha-2": "ET",
+    "ISO3166-1-Alpha-3": "ETH",
+    "ISO3166-1-numeric": 231
+}, {
+    "name": "Falkland Islands (Malvinas)",
+    "ISO3166-1-Alpha-2": "FK",
+    "ISO3166-1-Alpha-3": "FLK",
+    "ISO3166-1-numeric": 238
+}, {
+    "name": "Faroe Islands",
+    "ISO3166-1-Alpha-2": "FO",
+    "ISO3166-1-Alpha-3": "FRO",
+    "ISO3166-1-numeric": 234
+}, {
+    "name": "Fiji",
+    "ISO3166-1-Alpha-2": "FJ",
+    "ISO3166-1-Alpha-3": "FJI",
+    "ISO3166-1-numeric": 242
+}, {
+    "name": "Finland",
+    "ISO3166-1-Alpha-2": "FI",
+    "ISO3166-1-Alpha-3": "FIN",
+    "ISO3166-1-numeric": 246
+}, {
+    "name": "France",
+    "ISO3166-1-Alpha-2": "FR",
+    "ISO3166-1-Alpha-3": "FRA",
+    "ISO3166-1-numeric": 250
+}, {
+    "name": "French Guiana",
+    "ISO3166-1-Alpha-2": "GF",
+    "ISO3166-1-Alpha-3": "GUF",
+    "ISO3166-1-numeric": 254
+}, {
+    "name": "French Polynesia",
+    "ISO3166-1-Alpha-2": "PF",
+    "ISO3166-1-Alpha-3": "PYF",
+    "ISO3166-1-numeric": 258
+}, {
+    "name": "French Southern Territories",
+    "ISO3166-1-Alpha-2": "TF",
+    "ISO3166-1-Alpha-3": "ATF",
+    "ISO3166-1-numeric": 260
+}, {
+    "name": "Gabon",
+    "ISO3166-1-Alpha-2": "GA",
+    "ISO3166-1-Alpha-3": "GAB",
+    "ISO3166-1-numeric": 266
+}, {
+    "name": "Gambia",
+    "ISO3166-1-Alpha-2": "GM",
+    "ISO3166-1-Alpha-3": "GMB",
+    "ISO3166-1-numeric": 270
+}, {
+    "name": "Georgia",
+    "ISO3166-1-Alpha-2": "GE",
+    "ISO3166-1-Alpha-3": "GEO",
+    "ISO3166-1-numeric": 268
+}, {
+    "name": "Germany",
+    "ISO3166-1-Alpha-2": "DE",
+    "ISO3166-1-Alpha-3": "DEU",
+    "ISO3166-1-numeric": 276
+}, {
+    "name": "Ghana",
+    "ISO3166-1-Alpha-2": "GH",
+    "ISO3166-1-Alpha-3": "GHA",
+    "ISO3166-1-numeric": 288
+}, {
+    "name": "Gibraltar",
+    "ISO3166-1-Alpha-2": "GI",
+    "ISO3166-1-Alpha-3": "GIB",
+    "ISO3166-1-numeric": 292
+}, {
+    "name": "Greece",
+    "ISO3166-1-Alpha-2": "GR",
+    "ISO3166-1-Alpha-3": "GRC",
+    "ISO3166-1-numeric": 300
+}, {
+    "name": "Greenland",
+    "ISO3166-1-Alpha-2": "GL",
+    "ISO3166-1-Alpha-3": "GRL",
+    "ISO3166-1-numeric": 304
+}, {
+    "name": "Grenada",
+    "ISO3166-1-Alpha-2": "GD",
+    "ISO3166-1-Alpha-3": "GRD",
+    "ISO3166-1-numeric": 308
+}, {
+    "name": "Guadeloupe",
+    "ISO3166-1-Alpha-2": "GP",
+    "ISO3166-1-Alpha-3": "GLP",
+    "ISO3166-1-numeric": 312
+}, {
+    "name": "Guam",
+    "ISO3166-1-Alpha-2": "GU",
+    "ISO3166-1-Alpha-3": "GUM",
+    "ISO3166-1-numeric": 316
+}, {
+    "name": "Guatemala",
+    "ISO3166-1-Alpha-2": "GT",
+    "ISO3166-1-Alpha-3": "GTM",
+    "ISO3166-1-numeric": 320
+}, {
+    "name": "Guernsey",
+    "ISO3166-1-Alpha-2": "GG",
+    "ISO3166-1-Alpha-3": "GGY",
+    "ISO3166-1-numeric": 831
+}, {
+    "name": "Guinea",
+    "ISO3166-1-Alpha-2": "GN",
+    "ISO3166-1-Alpha-3": "GIN",
+    "ISO3166-1-numeric": 324
+}, {
+    "name": "Guinea-Bissau",
+    "ISO3166-1-Alpha-2": "GW",
+    "ISO3166-1-Alpha-3": "GNB",
+    "ISO3166-1-numeric": 624
+}, {
+    "name": "Guyana",
+    "ISO3166-1-Alpha-2": "GY",
+    "ISO3166-1-Alpha-3": "GUY",
+    "ISO3166-1-numeric": 328
+}, {
+    "name": "Haiti",
+    "ISO3166-1-Alpha-2": "HT",
+    "ISO3166-1-Alpha-3": "HTI",
+    "ISO3166-1-numeric": 332
+}, {
+    "name": "Heard Island and McDonald Islands",
+    "ISO3166-1-Alpha-2": "HM",
+    "ISO3166-1-Alpha-3": "HMD",
+    "ISO3166-1-numeric": 334
+}, {
+    "name": "Holy See (Vatican City State)",
+    "ISO3166-1-Alpha-2": "VA",
+    "ISO3166-1-Alpha-3": "VAT",
+    "ISO3166-1-numeric": 336
+}, {
+    "name": "Honduras",
+    "ISO3166-1-Alpha-2": "HN",
+    "ISO3166-1-Alpha-3": "HND",
+    "ISO3166-1-numeric": 340
+}, {
+    "name": "Hong Kong",
+    "ISO3166-1-Alpha-2": "HK",
+    "ISO3166-1-Alpha-3": "HKG",
+    "ISO3166-1-numeric": 344
+}, {
+    "name": "Hungary",
+    "ISO3166-1-Alpha-2": "HU",
+    "ISO3166-1-Alpha-3": "HUN",
+    "ISO3166-1-numeric": 348
+}, {
+    "name": "Iceland",
+    "ISO3166-1-Alpha-2": "IS",
+    "ISO3166-1-Alpha-3": "ISL",
+    "ISO3166-1-numeric": 352
+}, {
+    "name": "India",
+    "ISO3166-1-Alpha-2": "IN",
+    "ISO3166-1-Alpha-3": "IND",
+    "ISO3166-1-numeric": 356
+}, {
+    "name": "Indonesia",
+    "ISO3166-1-Alpha-2": "ID",
+    "ISO3166-1-Alpha-3": "IDN",
+    "ISO3166-1-numeric": 360
+}, {
+    "name": "Iran, Islamic Republic of",
+    "ISO3166-1-Alpha-2": "IR",
+    "ISO3166-1-Alpha-3": "IRN",
+    "ISO3166-1-numeric": 364
+}, {
+    "name": "Iraq",
+    "ISO3166-1-Alpha-2": "IQ",
+    "ISO3166-1-Alpha-3": "IRQ",
+    "ISO3166-1-numeric": 368
+}, {
+    "name": "Ireland",
+    "ISO3166-1-Alpha-2": "IE",
+    "ISO3166-1-Alpha-3": "IRL",
+    "ISO3166-1-numeric": 372
+}, {
+    "name": "Isle of Man",
+    "ISO3166-1-Alpha-2": "IM",
+    "ISO3166-1-Alpha-3": "IMN",
+    "ISO3166-1-numeric": 833
+}, {
+    "name": "Israel",
+    "ISO3166-1-Alpha-2": "IL",
+    "ISO3166-1-Alpha-3": "ISR",
+    "ISO3166-1-numeric": 376
+}, {
+    "name": "Italy",
+    "ISO3166-1-Alpha-2": "IT",
+    "ISO3166-1-Alpha-3": "ITA",
+    "ISO3166-1-numeric": 380
+}, {
+    "name": "Jamaica",
+    "ISO3166-1-Alpha-2": "JM",
+    "ISO3166-1-Alpha-3": "JAM",
+    "ISO3166-1-numeric": 388
+}, {
+    "name": "Japan",
+    "ISO3166-1-Alpha-2": "JP",
+    "ISO3166-1-Alpha-3": "JPN",
+    "ISO3166-1-numeric": 392
+}, {
+    "name": "Jersey",
+    "ISO3166-1-Alpha-2": "JE",
+    "ISO3166-1-Alpha-3": "JEY",
+    "ISO3166-1-numeric": 832
+}, {
+    "name": "Jordan",
+    "ISO3166-1-Alpha-2": "JO",
+    "ISO3166-1-Alpha-3": "JOR",
+    "ISO3166-1-numeric": 400
+}, {
+    "name": "Kazakhstan",
+    "ISO3166-1-Alpha-2": "KZ",
+    "ISO3166-1-Alpha-3": "KAZ",
+    "ISO3166-1-numeric": 398
+}, {
+    "name": "Kenya",
+    "ISO3166-1-Alpha-2": "KE",
+    "ISO3166-1-Alpha-3": "KEN",
+    "ISO3166-1-numeric": 404
+}, {
+    "name": "Kiribati",
+    "ISO3166-1-Alpha-2": "KI",
+    "ISO3166-1-Alpha-3": "KIR",
+    "ISO3166-1-numeric": 296
+}, {
+    "name": "Korea, Democratic People's Republic of",
+    "ISO3166-1-Alpha-2": "KP",
+    "ISO3166-1-Alpha-3": "PRK",
+    "ISO3166-1-numeric": 408
+}, {
+    "name": "Korea, Republic of",
+    "ISO3166-1-Alpha-2": "KR",
+    "ISO3166-1-Alpha-3": "KOR",
+    "ISO3166-1-numeric": 410
+}, {
+    "name": "Kuwait",
+    "ISO3166-1-Alpha-2": "KW",
+    "ISO3166-1-Alpha-3": "KWT",
+    "ISO3166-1-numeric": 414
+}, {
+    "name": "Kyrgyzstan",
+    "ISO3166-1-Alpha-2": "KG",
+    "ISO3166-1-Alpha-3": "KGZ",
+    "ISO3166-1-numeric": 417
+}, {
+    "name": "Lao People's Democratic Republic",
+    "ISO3166-1-Alpha-2": "LA",
+    "ISO3166-1-Alpha-3": "LAO",
+    "ISO3166-1-numeric": 418
+}, {
+    "name": "Latvia",
+    "ISO3166-1-Alpha-2": "LV",
+    "ISO3166-1-Alpha-3": "LVA",
+    "ISO3166-1-numeric": 428
+}, {
+    "name": "Lebanon",
+    "ISO3166-1-Alpha-2": "LB",
+    "ISO3166-1-Alpha-3": "LBN",
+    "ISO3166-1-numeric": 422
+}, {
+    "name": "Lesotho",
+    "ISO3166-1-Alpha-2": "LS",
+    "ISO3166-1-Alpha-3": "LSO",
+    "ISO3166-1-numeric": 426
+}, {
+    "name": "Liberia",
+    "ISO3166-1-Alpha-2": "LR",
+    "ISO3166-1-Alpha-3": "LBR",
+    "ISO3166-1-numeric": 430
+}, {
+    "name": "Libya",
+    "ISO3166-1-Alpha-2": "LY",
+    "ISO3166-1-Alpha-3": "LBY",
+    "ISO3166-1-numeric": 434
+}, {
+    "name": "Liechtenstein",
+    "ISO3166-1-Alpha-2": "LI",
+    "ISO3166-1-Alpha-3": "LIE",
+    "ISO3166-1-numeric": 438
+}, {
+    "name": "Lithuania",
+    "ISO3166-1-Alpha-2": "LT",
+    "ISO3166-1-Alpha-3": "LTU",
+    "ISO3166-1-numeric": 440
+}, {
+    "name": "Luxembourg",
+    "ISO3166-1-Alpha-2": "LU",
+    "ISO3166-1-Alpha-3": "LUX",
+    "ISO3166-1-numeric": 442
+}, {
+    "name": "Macao",
+    "ISO3166-1-Alpha-2": "MO",
+    "ISO3166-1-Alpha-3": "MAC",
+    "ISO3166-1-numeric": 446
+}, {
+    "name": "Macedonia, the Former Yugoslav Republic of",
+    "ISO3166-1-Alpha-2": "MK",
+    "ISO3166-1-Alpha-3": "MKD",
+    "ISO3166-1-numeric": 807
+}, {
+    "name": "Madagascar",
+    "ISO3166-1-Alpha-2": "MG",
+    "ISO3166-1-Alpha-3": "MDG",
+    "ISO3166-1-numeric": 450
+}, {
+    "name": "Malawi",
+    "ISO3166-1-Alpha-2": "MW",
+    "ISO3166-1-Alpha-3": "MWI",
+    "ISO3166-1-numeric": 454
+}, {
+    "name": "Malaysia",
+    "ISO3166-1-Alpha-2": "MY",
+    "ISO3166-1-Alpha-3": "MYS",
+    "ISO3166-1-numeric": 458
+}, {
+    "name": "Maldives",
+    "ISO3166-1-Alpha-2": "MV",
+    "ISO3166-1-Alpha-3": "MDV",
+    "ISO3166-1-numeric": 462
+}, {
+    "name": "Mali",
+    "ISO3166-1-Alpha-2": "ML",
+    "ISO3166-1-Alpha-3": "MLI",
+    "ISO3166-1-numeric": 466
+}, {
+    "name": "Malta",
+    "ISO3166-1-Alpha-2": "MT",
+    "ISO3166-1-Alpha-3": "MLT",
+    "ISO3166-1-numeric": 470
+}, {
+    "name": "Marshall Islands",
+    "ISO3166-1-Alpha-2": "MH",
+    "ISO3166-1-Alpha-3": "MHL",
+    "ISO3166-1-numeric": 584
+}, {
+    "name": "Martinique",
+    "ISO3166-1-Alpha-2": "MQ",
+    "ISO3166-1-Alpha-3": "MTQ",
+    "ISO3166-1-numeric": 474
+}, {
+    "name": "Mauritania",
+    "ISO3166-1-Alpha-2": "MR",
+    "ISO3166-1-Alpha-3": "MRT",
+    "ISO3166-1-numeric": 478
+}, {
+    "name": "Mauritius",
+    "ISO3166-1-Alpha-2": "MU",
+    "ISO3166-1-Alpha-3": "MUS",
+    "ISO3166-1-numeric": 480
+}, {
+    "name": "Mayotte",
+    "ISO3166-1-Alpha-2": "YT",
+    "ISO3166-1-Alpha-3": "MYT",
+    "ISO3166-1-numeric": 175
+}, {
+    "name": "Mexico",
+    "ISO3166-1-Alpha-2": "MX",
+    "ISO3166-1-Alpha-3": "MEX",
+    "ISO3166-1-numeric": 484
+}, {
+    "name": "Micronesia, Federated States of",
+    "ISO3166-1-Alpha-2": "FM",
+    "ISO3166-1-Alpha-3": "FSM",
+    "ISO3166-1-numeric": 583
+}, {
+    "name": "Moldova, Republic of",
+    "ISO3166-1-Alpha-2": "MD",
+    "ISO3166-1-Alpha-3": "MDA",
+    "ISO3166-1-numeric": 498
+}, {
+    "name": "Monaco",
+    "ISO3166-1-Alpha-2": "MC",
+    "ISO3166-1-Alpha-3": "MCO",
+    "ISO3166-1-numeric": 492
+}, {
+    "name": "Mongolia",
+    "ISO3166-1-Alpha-2": "MN",
+    "ISO3166-1-Alpha-3": "MNG",
+    "ISO3166-1-numeric": 496
+}, {
+    "name": "Montenegro",
+    "ISO3166-1-Alpha-2": "ME",
+    "ISO3166-1-Alpha-3": "MNE",
+    "ISO3166-1-numeric": 499
+}, {
+    "name": "Montserrat",
+    "ISO3166-1-Alpha-2": "MS",
+    "ISO3166-1-Alpha-3": "MSR",
+    "ISO3166-1-numeric": 500
+}, {
+    "name": "Morocco",
+    "ISO3166-1-Alpha-2": "MA",
+    "ISO3166-1-Alpha-3": "MAR",
+    "ISO3166-1-numeric": 504
+}, {
+    "name": "Mozambique",
+    "ISO3166-1-Alpha-2": "MZ",
+    "ISO3166-1-Alpha-3": "MOZ",
+    "ISO3166-1-numeric": 508
+}, {
+    "name": "Myanmar",
+    "ISO3166-1-Alpha-2": "MM",
+    "ISO3166-1-Alpha-3": "MMR",
+    "ISO3166-1-numeric": 104
+}, {
+    "name": "Namibia",
+    "ISO3166-1-Alpha-2": "NA",
+    "ISO3166-1-Alpha-3": "NAM",
+    "ISO3166-1-numeric": 516
+}, {
+    "name": "Nauru",
+    "ISO3166-1-Alpha-2": "NR",
+    "ISO3166-1-Alpha-3": "NRU",
+    "ISO3166-1-numeric": 520
+}, {
+    "name": "Nepal",
+    "ISO3166-1-Alpha-2": "NP",
+    "ISO3166-1-Alpha-3": "NPL",
+    "ISO3166-1-numeric": 524
+}, {
+    "name": "Netherlands",
+    "ISO3166-1-Alpha-2": "NL",
+    "ISO3166-1-Alpha-3": "NLD",
+    "ISO3166-1-numeric": 528
+}, {
+    "name": "New Caledonia",
+    "ISO3166-1-Alpha-2": "NC",
+    "ISO3166-1-Alpha-3": "NCL",
+    "ISO3166-1-numeric": 540
+}, {
+    "name": "New Zealand",
+    "ISO3166-1-Alpha-2": "NZ",
+    "ISO3166-1-Alpha-3": "NZL",
+    "ISO3166-1-numeric": 554
+}, {
+    "name": "Nicaragua",
+    "ISO3166-1-Alpha-2": "NI",
+    "ISO3166-1-Alpha-3": "NIC",
+    "ISO3166-1-numeric": 558
+}, {
+    "name": "Niger",
+    "ISO3166-1-Alpha-2": "NE",
+    "ISO3166-1-Alpha-3": "NER",
+    "ISO3166-1-numeric": 562
+}, {
+    "name": "Nigeria",
+    "ISO3166-1-Alpha-2": "NG",
+    "ISO3166-1-Alpha-3": "NGA",
+    "ISO3166-1-numeric": 566
+}, {
+    "name": "Niue",
+    "ISO3166-1-Alpha-2": "NU",
+    "ISO3166-1-Alpha-3": "NIU",
+    "ISO3166-1-numeric": 570
+}, {
+    "name": "Norfolk Island",
+    "ISO3166-1-Alpha-2": "NF",
+    "ISO3166-1-Alpha-3": "NFK",
+    "ISO3166-1-numeric": 574
+}, {
+    "name": "Northern Mariana Islands",
+    "ISO3166-1-Alpha-2": "MP",
+    "ISO3166-1-Alpha-3": "MNP",
+    "ISO3166-1-numeric": 580
+}, {
+    "name": "Norway",
+    "ISO3166-1-Alpha-2": "NO",
+    "ISO3166-1-Alpha-3": "NOR",
+    "ISO3166-1-numeric": 578
+}, {
+    "name": "Oman",
+    "ISO3166-1-Alpha-2": "OM",
+    "ISO3166-1-Alpha-3": "OMN",
+    "ISO3166-1-numeric": 512
+}, {
+    "name": "Pakistan",
+    "ISO3166-1-Alpha-2": "PK",
+    "ISO3166-1-Alpha-3": "PAK",
+    "ISO3166-1-numeric": 586
+}, {
+    "name": "Palau",
+    "ISO3166-1-Alpha-2": "PW",
+    "ISO3166-1-Alpha-3": "PLW",
+    "ISO3166-1-numeric": 585
+}, {
+    "name": "Palestine, State of",
+    "ISO3166-1-Alpha-2": "PS",
+    "ISO3166-1-Alpha-3": "PSE",
+    "ISO3166-1-numeric": 275
+}, {
+    "name": "Panama",
+    "ISO3166-1-Alpha-2": "PA",
+    "ISO3166-1-Alpha-3": "PAN",
+    "ISO3166-1-numeric": 591
+}, {
+    "name": "Papua New Guinea",
+    "ISO3166-1-Alpha-2": "PG",
+    "ISO3166-1-Alpha-3": "PNG",
+    "ISO3166-1-numeric": 598
+}, {
+    "name": "Paraguay",
+    "ISO3166-1-Alpha-2": "PY",
+    "ISO3166-1-Alpha-3": "PRY",
+    "ISO3166-1-numeric": 600
+}, {
+    "name": "Peru",
+    "ISO3166-1-Alpha-2": "PE",
+    "ISO3166-1-Alpha-3": "PER",
+    "ISO3166-1-numeric": 604
+}, {
+    "name": "Philippines",
+    "ISO3166-1-Alpha-2": "PH",
+    "ISO3166-1-Alpha-3": "PHL",
+    "ISO3166-1-numeric": 608
+}, {
+    "name": "Pitcairn",
+    "ISO3166-1-Alpha-2": "PN",
+    "ISO3166-1-Alpha-3": "PCN",
+    "ISO3166-1-numeric": 612
+}, {
+    "name": "Poland",
+    "ISO3166-1-Alpha-2": "PL",
+    "ISO3166-1-Alpha-3": "POL",
+    "ISO3166-1-numeric": 616
+}, {
+    "name": "Portugal",
+    "ISO3166-1-Alpha-2": "PT",
+    "ISO3166-1-Alpha-3": "PRT",
+    "ISO3166-1-numeric": 620
+}, {
+    "name": "Puerto Rico",
+    "ISO3166-1-Alpha-2": "PR",
+    "ISO3166-1-Alpha-3": "PRI",
+    "ISO3166-1-numeric": 630
+}, {
+    "name": "Qatar",
+    "ISO3166-1-Alpha-2": "QA",
+    "ISO3166-1-Alpha-3": "QAT",
+    "ISO3166-1-numeric": 634
+}, {
+    "name": "Romania",
+    "ISO3166-1-Alpha-2": "RO",
+    "ISO3166-1-Alpha-3": "ROU",
+    "ISO3166-1-numeric": 642
+}, {
+    "name": "Russian Federation",
+    "ISO3166-1-Alpha-2": "RU",
+    "ISO3166-1-Alpha-3": "RUS",
+    "ISO3166-1-numeric": 643
+}, {
+    "name": "Rwanda",
+    "ISO3166-1-Alpha-2": "RW",
+    "ISO3166-1-Alpha-3": "RWA",
+    "ISO3166-1-numeric": 646
+}, {
+    "name": "Réunion",
+    "ISO3166-1-Alpha-2": "RE",
+    "ISO3166-1-Alpha-3": "REU",
+    "ISO3166-1-numeric": 638
+}, {
+    "name": "Saint Barthélemy",
+    "ISO3166-1-Alpha-2": "BL",
+    "ISO3166-1-Alpha-3": "BLM",
+    "ISO3166-1-numeric": 652
+}, {
+    "name": "Saint Helena, Ascension and Tristan da Cunha",
+    "ISO3166-1-Alpha-2": "SH",
+    "ISO3166-1-Alpha-3": "SHN",
+    "ISO3166-1-numeric": 654
+}, {
+    "name": "Saint Kitts and Nevis",
+    "ISO3166-1-Alpha-2": "KN",
+    "ISO3166-1-Alpha-3": "KNA",
+    "ISO3166-1-numeric": 659
+}, {
+    "name": "Saint Lucia",
+    "ISO3166-1-Alpha-2": "LC",
+    "ISO3166-1-Alpha-3": "LCA",
+    "ISO3166-1-numeric": 662
+}, {
+    "name": "Saint Martin (French part)",
+    "ISO3166-1-Alpha-2": "MF",
+    "ISO3166-1-Alpha-3": "MAF",
+    "ISO3166-1-numeric": 663
+}, {
+    "name": "Saint Pierre and Miquelon",
+    "ISO3166-1-Alpha-2": "PM",
+    "ISO3166-1-Alpha-3": "SPM",
+    "ISO3166-1-numeric": 666
+}, {
+    "name": "Saint Vincent and the Grenadines",
+    "ISO3166-1-Alpha-2": "VC",
+    "ISO3166-1-Alpha-3": "VCT",
+    "ISO3166-1-numeric": 670
+}, {
+    "name": "Samoa",
+    "ISO3166-1-Alpha-2": "WS",
+    "ISO3166-1-Alpha-3": "WSM",
+    "ISO3166-1-numeric": 882
+}, {
+    "name": "San Marino",
+    "ISO3166-1-Alpha-2": "SM",
+    "ISO3166-1-Alpha-3": "SMR",
+    "ISO3166-1-numeric": 674
+}, {
+    "name": "Sao Tome and Principe",
+    "ISO3166-1-Alpha-2": "ST",
+    "ISO3166-1-Alpha-3": "STP",
+    "ISO3166-1-numeric": 678
+}, {
+    "name": "Saudi Arabia",
+    "ISO3166-1-Alpha-2": "SA",
+    "ISO3166-1-Alpha-3": "SAU",
+    "ISO3166-1-numeric": 682
+}, {
+    "name": "Senegal",
+    "ISO3166-1-Alpha-2": "SN",
+    "ISO3166-1-Alpha-3": "SEN",
+    "ISO3166-1-numeric": 686
+}, {
+    "name": "Serbia",
+    "ISO3166-1-Alpha-2": "RS",
+    "ISO3166-1-Alpha-3": "SRB",
+    "ISO3166-1-numeric": 688
+}, {
+    "name": "Seychelles",
+    "ISO3166-1-Alpha-2": "SC",
+    "ISO3166-1-Alpha-3": "SYC",
+    "ISO3166-1-numeric": 690
+}, {
+    "name": "Sierra Leone",
+    "ISO3166-1-Alpha-2": "SL",
+    "ISO3166-1-Alpha-3": "SLE",
+    "ISO3166-1-numeric": 694
+}, {
+    "name": "Singapore",
+    "ISO3166-1-Alpha-2": "SG",
+    "ISO3166-1-Alpha-3": "SGP",
+    "ISO3166-1-numeric": 702
+}, {
+    "name": "Sint Maarten (Dutch part)",
+    "ISO3166-1-Alpha-2": "SX",
+    "ISO3166-1-Alpha-3": "SXM",
+    "ISO3166-1-numeric": 534
+}, {
+    "name": "Slovakia",
+    "ISO3166-1-Alpha-2": "SK",
+    "ISO3166-1-Alpha-3": "SVK",
+    "ISO3166-1-numeric": 703
+}, {
+    "name": "Slovenia",
+    "ISO3166-1-Alpha-2": "SI",
+    "ISO3166-1-Alpha-3": "SVN",
+    "ISO3166-1-numeric": 705
+}, {
+    "name": "Solomon Islands",
+    "ISO3166-1-Alpha-2": "SB",
+    "ISO3166-1-Alpha-3": "SLB",
+    "ISO3166-1-numeric": 90
+}, {
+    "name": "Somalia",
+    "ISO3166-1-Alpha-2": "SO",
+    "ISO3166-1-Alpha-3": "SOM",
+    "ISO3166-1-numeric": 706
+}, {
+    "name": "South Africa",
+    "ISO3166-1-Alpha-2": "ZA",
+    "ISO3166-1-Alpha-3": "ZAF",
+    "ISO3166-1-numeric": 710
+}, {
+    "name": "South Georgia and the South Sandwich Islands",
+    "ISO3166-1-Alpha-2": "GS",
+    "ISO3166-1-Alpha-3": "SGS",
+    "ISO3166-1-numeric": 239
+}, {
+    "name": "South Sudan",
+    "ISO3166-1-Alpha-2": "SS",
+    "ISO3166-1-Alpha-3": "SSD",
+    "ISO3166-1-numeric": 728
+}, {
+    "name": "Spain",
+    "ISO3166-1-Alpha-2": "ES",
+    "ISO3166-1-Alpha-3": "ESP",
+    "ISO3166-1-numeric": 724
+}, {
+    "name": "Sri Lanka",
+    "ISO3166-1-Alpha-2": "LK",
+    "ISO3166-1-Alpha-3": "LKA",
+    "ISO3166-1-numeric": 144
+}, {
+    "name": "Sudan",
+    "ISO3166-1-Alpha-2": "SD",
+    "ISO3166-1-Alpha-3": "SDN",
+    "ISO3166-1-numeric": 729
+}, {
+    "name": "Suriname",
+    "ISO3166-1-Alpha-2": "SR",
+    "ISO3166-1-Alpha-3": "SUR",
+    "ISO3166-1-numeric": 740
+}, {
+    "name": "Svalbard and Jan Mayen",
+    "ISO3166-1-Alpha-2": "SJ",
+    "ISO3166-1-Alpha-3": "SJM",
+    "ISO3166-1-numeric": 744
+}, {
+    "name": "Swaziland",
+    "ISO3166-1-Alpha-2": "SZ",
+    "ISO3166-1-Alpha-3": "SWZ",
+    "ISO3166-1-numeric": 748
+}, {
+    "name": "Sweden",
+    "ISO3166-1-Alpha-2": "SE",
+    "ISO3166-1-Alpha-3": "SWE",
+    "ISO3166-1-numeric": 752
+}, {
+    "name": "Switzerland",
+    "ISO3166-1-Alpha-2": "CH",
+    "ISO3166-1-Alpha-3": "CHE",
+    "ISO3166-1-numeric": 756
+}, {
+    "name": "Syrian Arab Republic",
+    "ISO3166-1-Alpha-2": "SY",
+    "ISO3166-1-Alpha-3": "SYR",
+    "ISO3166-1-numeric": 760
+}, {
+    "name": "Taiwan, Province of China",
+    "ISO3166-1-Alpha-2": "TW",
+    "ISO3166-1-Alpha-3": "TWN",
+    "ISO3166-1-numeric": 158
+}, {
+    "name": "Tajikistan",
+    "ISO3166-1-Alpha-2": "TJ",
+    "ISO3166-1-Alpha-3": "TJK",
+    "ISO3166-1-numeric": 762
+}, {
+    "name": "Tanzania, United Republic of",
+    "ISO3166-1-Alpha-2": "TZ",
+    "ISO3166-1-Alpha-3": "TZA",
+    "ISO3166-1-numeric": 834
+}, {
+    "name": "Thailand",
+    "ISO3166-1-Alpha-2": "TH",
+    "ISO3166-1-Alpha-3": "THA",
+    "ISO3166-1-numeric": 764
+}, {
+    "name": "Timor-Leste",
+    "ISO3166-1-Alpha-2": "TL",
+    "ISO3166-1-Alpha-3": "TLS",
+    "ISO3166-1-numeric": 626
+}, {
+    "name": "Togo",
+    "ISO3166-1-Alpha-2": "TG",
+    "ISO3166-1-Alpha-3": "TGO",
+    "ISO3166-1-numeric": 768
+}, {
+    "name": "Tokelau",
+    "ISO3166-1-Alpha-2": "TK",
+    "ISO3166-1-Alpha-3": "TKL",
+    "ISO3166-1-numeric": 772
+}, {
+    "name": "Tonga",
+    "ISO3166-1-Alpha-2": "TO",
+    "ISO3166-1-Alpha-3": "TON",
+    "ISO3166-1-numeric": 776
+}, {
+    "name": "Trinidad and Tobago",
+    "ISO3166-1-Alpha-2": "TT",
+    "ISO3166-1-Alpha-3": "TTO",
+    "ISO3166-1-numeric": 780
+}, {
+    "name": "Tunisia",
+    "ISO3166-1-Alpha-2": "TN",
+    "ISO3166-1-Alpha-3": "TUN",
+    "ISO3166-1-numeric": 788
+}, {
+    "name": "Turkey",
+    "ISO3166-1-Alpha-2": "TR",
+    "ISO3166-1-Alpha-3": "TUR",
+    "ISO3166-1-numeric": 792
+}, {
+    "name": "Turkmenistan",
+    "ISO3166-1-Alpha-2": "TM",
+    "ISO3166-1-Alpha-3": "TKM",
+    "ISO3166-1-numeric": 795
+}, {
+    "name": "Turks and Caicos Islands",
+    "ISO3166-1-Alpha-2": "TC",
+    "ISO3166-1-Alpha-3": "TCA",
+    "ISO3166-1-numeric": 796
+}, {
+    "name": "Tuvalu",
+    "ISO3166-1-Alpha-2": "TV",
+    "ISO3166-1-Alpha-3": "TUV",
+    "ISO3166-1-numeric": 798
+}, {
+    "name": "Uganda",
+    "ISO3166-1-Alpha-2": "UG",
+    "ISO3166-1-Alpha-3": "UGA",
+    "ISO3166-1-numeric": 800
+}, {
+    "name": "Ukraine",
+    "ISO3166-1-Alpha-2": "UA",
+    "ISO3166-1-Alpha-3": "UKR",
+    "ISO3166-1-numeric": 804
+}, {
+    "name": "United Arab Emirates",
+    "ISO3166-1-Alpha-2": "AE",
+    "ISO3166-1-Alpha-3": "ARE",
+    "ISO3166-1-numeric": 784
+}, {
+    "name": "United Kingdom",
+    "ISO3166-1-Alpha-2": "GB",
+    "ISO3166-1-Alpha-3": "GBR",
+    "ISO3166-1-numeric": 826
+}, {
+    "name": "United States",
+    "ISO3166-1-Alpha-2": "EN",
+    "ISO3166-1-Alpha-3": "USA",
+    "ISO3166-1-numeric": 840
+}, {
+    "name": "United States Minor Outlying Islands",
+    "ISO3166-1-Alpha-2": "UM",
+    "ISO3166-1-Alpha-3": "UMI",
+    "ISO3166-1-numeric": 581
+}, {
+    "name": "Uruguay",
+    "ISO3166-1-Alpha-2": "UY",
+    "ISO3166-1-Alpha-3": "URY",
+    "ISO3166-1-numeric": 858
+}, {
+    "name": "Uzbekistan",
+    "ISO3166-1-Alpha-2": "UZ",
+    "ISO3166-1-Alpha-3": "UZB",
+    "ISO3166-1-numeric": 860
+}, {
+    "name": "Vanuatu",
+    "ISO3166-1-Alpha-2": "VU",
+    "ISO3166-1-Alpha-3": "VUT",
+    "ISO3166-1-numeric": 548
+}, {
+    "name": "Venezuela, Bolivarian Republic of",
+    "ISO3166-1-Alpha-2": "VE",
+    "ISO3166-1-Alpha-3": "VEN",
+    "ISO3166-1-numeric": 862
+}, {
+    "name": "Viet Nam",
+    "ISO3166-1-Alpha-2": "VN",
+    "ISO3166-1-Alpha-3": "VNM",
+    "ISO3166-1-numeric": 704
+}, {
+    "name": "Virgin Islands, British",
+    "ISO3166-1-Alpha-2": "VG",
+    "ISO3166-1-Alpha-3": "VGB",
+    "ISO3166-1-numeric": 92
+}, {
+    "name": "Virgin Islands, U.S.",
+    "ISO3166-1-Alpha-2": "VI",
+    "ISO3166-1-Alpha-3": "VIR",
+    "ISO3166-1-numeric": 850
+}, {
+    "name": "Wallis and Futuna",
+    "ISO3166-1-Alpha-2": "WF",
+    "ISO3166-1-Alpha-3": "WLF",
+    "ISO3166-1-numeric": 876
+}, {
+    "name": "Western Sahara",
+    "ISO3166-1-Alpha-2": "EH",
+    "ISO3166-1-Alpha-3": "ESH",
+    "ISO3166-1-numeric": 732
+}, {
+    "name": "Yemen",
+    "ISO3166-1-Alpha-2": "YE",
+    "ISO3166-1-Alpha-3": "YEM",
+    "ISO3166-1-numeric": 887
+}, {
+    "name": "Zambia",
+    "ISO3166-1-Alpha-2": "ZM",
+    "ISO3166-1-Alpha-3": "ZMB",
+    "ISO3166-1-numeric": 894
+}, {
+    "name": "Zimbabwe",
+    "ISO3166-1-Alpha-2": "ZW",
+    "ISO3166-1-Alpha-3": "ZWE",
+    "ISO3166-1-numeric": 716
+}, {
+    "name": "Åland Islands",
+    "ISO3166-1-Alpha-2": "AX",
+    "ISO3166-1-Alpha-3": "ALA",
+    "ISO3166-1-numeric": 248
+}]
