@@ -15,10 +15,13 @@ angular.module('App.home')
          $scope.gotoAnchor = function(x) {
             var newHash = 'anchor' + x;
             $scope.current = x;
-            console.log(newHash);
             $('html, body').animate({
                 scrollTop: $('#'+newHash ).offset().top - 60
             }, 500);
+        };
+
+         $scope.changeCurrentTab = function(x) {
+            $scope.current = x;
         };
 
          NgMap.getMap().then(function(map) {

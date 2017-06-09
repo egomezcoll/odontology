@@ -1,6 +1,13 @@
 /* Import specific css here */
 /* Import the theme */
 @import "bootstrap-theme";
+@font-face {
+    font-family: AktivGrotesk-Light;
+    font-style: normal;
+    font-stretch: normal;
+    font-weight: 300;
+    src: local("AktivGrotesk Light"), local("AktivGrotesk-Light"), url(../fonts/AktivGrotesk-Light.otf) format("truetype");
+}
 .mt1fake{
     margin-top:0px;
 }
@@ -28,7 +35,7 @@
 }
 
 .navbar-default .navbar-nav > li > a {
-    color: #000;
+    color: #34383C;
 }
 .navbar .navbar-nav > li > a {
     font-size: 1.1em;
@@ -51,44 +58,70 @@
 
 p{
     font-size: 1.8em !important;
-    color: #000;
+    padding-left: 35px;
     line-height: 1.6em;
     text-align: left;
 }
 
 .title2{
-    color: #000;
+    //color: #000;
     text-align: left;
     line-height: 1.7;
 }
 
 .jumbotron{
     &.custom{
-        background-color: #0058A7;
+        background-color: #0059A2;
         color: #ffffff;
         .cabecera{
-            font-size: 1.7em;
+            font-size: 30px;
         }
         .bordercolor{
-            border-bottom: 1px solid #ffffff;
+            border-bottom: 1px solid #EEEEEE;
+        }
+        .seccion{
+            font-size: 12px;
+            letter-spacing: 2px;
+            color: #EEEEEE;
+        }
+        .seccionContent{
+            font-size: 15px;
+        }
+        .extraInfo{
+            font-size: 12px;
+            color: #EEEEEE;
+            text-align: left;
+        }
+        .price{
+            font-size: 30px;
+            margin-bottom: 15px;
         }
 
     }
 }
 .cabecera{
-    font-size: 1.7em;
+    font-size: 30px;
 }
 .contacto{
-    color: #000;
+    //color: #000;
     .title{
-        color: #CCC;
+        font-size: 12px; 
+        color: #ADADAD;
+    }
+    .seccionContent{
+        font-size: 15px;
     }
 }   
 .clinica{
-    color: #000;
+    //color: #000;
     background-color: #F8F9FB;
     .cabecera{
-        font-size: 1.7em;
+        font-size: 30px;
+    }
+    .subtitle{
+        line-height: 1.7em; 
+        font-size: 12px; 
+        color: #ADADAD;
     }
     .bordercolor{
         border-bottom: 1px solid #ffffff;
@@ -97,11 +130,26 @@ p{
     ul {
         list-style-image: url('../images/bullet.png');
     }
+    .features{
+            background-color:#ffffff; 
+            padding:50px;
+        }
+}
+
+body{
+    font-family: AktivGrotesk-Light;
+    font-size: 16px;
+    line-height: 28px;
+    color: #34383C;
 }
 
 /************** MEDIA QUERIES ******************/
 
 @media only screen and (max-width: 500px) {
+    .row {
+        margin-left: 0px;
+        margin-right: 0px;
+    }
     .mt60{
         height:30px;
     }
@@ -118,6 +166,20 @@ p{
     body {
         padding-top: 30px;
     }
+    p{
+        font-size: 1.2em !important;
+        padding-left: 0px;
+        line-height: 1.6em;
+        text-align: left;
+    }
+
+    .clinica{
+        .features{
+            background-color:#ffffff; 
+            padding:10px;
+        }
+    }
+   
     
     
 }

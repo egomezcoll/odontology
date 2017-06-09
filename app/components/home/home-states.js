@@ -12,8 +12,7 @@
                 .state('home', {
                     // Use a url of "/" to set a state as the "index".
                     url: '/home',
-                    templateUrl: 'components/home/home.html',
-                    controller: 'homeController'
+                    templateUrl: 'components/home/home.html'
                 });
         }
     );
