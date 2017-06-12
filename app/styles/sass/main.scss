@@ -33,7 +33,27 @@
 .mb50{
     margin-bottom:50px;
 }
+.mb30{
+    margin-bottom:30px;
+}
 
+.carousel-inner{
+    max-height: 650px;
+}
+.carousel-caption{
+    top: 12%;
+    left: 10% !important;
+    font-weight: bold;
+    font-size: 56px;
+    color: #ffffff;
+    text-align: left;
+    line-height: 1;
+    &.subtitle{
+        top: 30%;
+        font-weight: bold;
+        font-size: 32px;
+    }
+}
 .navbar-default .navbar-nav > li > a {
     color: #34383C;
 }
@@ -130,10 +150,10 @@ p{
     ul {
         list-style-image: url('../images/bullet.png');
     }
-    .features{
-            background-color:#ffffff; 
-            padding:50px;
-        }
+}
+.features{
+    background-color:#ffffff; 
+    padding:50px;
 }
 
 body{
@@ -144,6 +164,81 @@ body{
 }
 
 /************** MEDIA QUERIES ******************/
+@media(max-width:1200px)  {
+    .carousel-caption{
+         &.subtitle{
+            top: 34%;
+        }
+    }   
+}
+@media(max-width:1000px)  {
+    .navbar-header {
+        float: inherit !important;
+    }
+    .navbar-toggle {
+        display: block !important;
+    }
+    .navbar-collapse.collapse {
+        display: none !important;
+    }
+
+    .navbar-collapse {
+        overflow-x: visible !important;
+    }
+
+    .navbar-collapse.in {
+      overflow-y: auto !important;
+    }
+
+    .collapse.in {
+      display: block !important;
+      overflow-y: hidden !important;
+    }
+    .navbar-nav > li {
+        float: inherit !important;
+        position: relative;
+        display: block;
+    }
+    .navbar-nav > li > a {
+        margin-right: 0 !important;
+        font-size: 1.28571em !important;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .navbar-nav {
+        float: inherit !important;
+    }
+
+    .pull-right{
+        float: inherit !important;
+    }
+
+    .carousel-caption{
+        top: 12%;
+        left: 10% !important;
+        font-weight: bold;
+        font-size: 42px;
+        color: #ffffff;
+        text-align: left;
+        line-height: 1;
+         &.subtitle{
+            top: 34%;
+            font-weight: bold;
+            font-size: 24px;
+        }
+    }   
+
+}
+
+@media(max-width:800px)  {
+    .carousel-caption{
+        font-size: 34px;
+         &.subtitle{
+            font-size: 20px;
+            top:38%;
+        }
+    }   
+}
 
 @media only screen and (max-width: 500px) {
     .row {
@@ -173,14 +268,32 @@ body{
         text-align: left;
     }
 
-    .clinica{
-        .features{
-            background-color:#ffffff; 
-            padding:10px;
-        }
+    .features{
+        background-color:#ffffff; 
+        padding:10px;
     }
    
+    .carousel-caption{
+        top: 12%;
+        left: 10% !important;
+        font-weight: bold;
+        font-size: 24px;
+        color: #ffffff;
+        text-align: left;
+        line-height: 1;
+        &.subtitle{
+            top: 40%;
+            font-weight: bold;
+            font-size: 14px;
+        }
+    }    
     
-    
+}
+@media(max-width:360px)  {
+    .carousel-caption{
+         &.subtitle{
+            top: 55%;
+        }
+    }   
 }
 
