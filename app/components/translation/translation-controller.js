@@ -5,14 +5,22 @@
 
     .controller('TranslationController', ['$scope', '$translate', 'tmhDynamicLocale',
         function ($scope, $translate, tmhDynamicLocale) {
-
+            console.log('TRANSLATION RUN');
             $scope.setLocale = function (locale) {
+                if(locale==='en-US'){
+                    $scope.langSelected = 'eng';
+                }else if(locale==='ca-ES'){
+                    $scope.langSelected = 'cat';
+                }else{
+                    $scope.langSelected = 'es';
+                }
                 $translate.uses(locale);
                 tmhDynamicLocale.set(locale.toLowerCase());
             };
 
             $scope.language = {};
-            $scope.language.selected = 'en-US';
+            $scope.language.selected = 'es-ES';
+            $scope.langSelected = 'es';
             $scope.setLocale($scope.language.selected);
 
             $scope.languages = [{
@@ -21,6 +29,9 @@
             }, {
                 name: 'ENGLISH',
                 value: 'en-US'
+            }, {
+                name: 'CATALAN',
+                value: 'ca-ES'
             }];
 
             $scope.getTranslation = function (value) {
