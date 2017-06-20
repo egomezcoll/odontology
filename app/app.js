@@ -6,7 +6,10 @@
         'App.home',
         'ngMap'
     ])
-        .run(function($log, $rootScope, $state, $http, $filter, Notification) {
+        .config(function($translateProvider){
+             $translateProvider.preferredLanguage('es-ES');
+        })
+        .run(function($log, $rootScope, $state, $http, $filter, Notification, $translate) {
             $log.debug('test2 App run');
             $http.get('resources/static-data/ISOcodes.json')
                 //$http.get('/api/ISOcodes')
@@ -51,6 +54,8 @@
                 $('.mainview')
                     .css('min-height', 'calc(100% - 121px)');
             };
+
+            $translate.uses('es-ES');
         });
     function deepen(o) {
         var oo = {}, t, parts, part;

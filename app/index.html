@@ -7,6 +7,7 @@
 <!--<![endif]-->
 
 <head>
+      <link rel="icon" href="favicon.ico" />
       <title>Master de implantología y protesis oral</title>
       <meta charset="utf-8">
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -59,11 +60,17 @@
                     then to navigate to a state. When this link is clicked it will take the application
                     to the 'home' state. Behind the scenes the directive also adds the correct href attr
                     and url. -->
-                    <div class="navbar-brand" ng-controller="TranslationController">
-                        <a ng-click="setLocale('es-ES')"><img src="../styles/images/Spain_flag.gif" width="25px" height="17px" ng-class="{'opacityHalf':langSelected!='es'}"></a>
-                        <a ng-click="setLocale('ca-ES')"><img src="../styles/images/flag-catalunya.png" width="25px" height="17px" style="margin-left:5px; margin-right:5px" ng-class="{'opacityHalf':langSelected!='cat'}"></a>
-                        <a ng-click="setLocale('en-US')"><img src="../styles/images/United_Kingdom.png" width="25px" height="17px" ng-class="{'opacityHalf':langSelected!='eng'}"></a>
-                    </div>    
+                        <div class="navbar-brand" ng-controller="TranslationController">
+                              <a ng-click="setLocale('es-ES')">
+                                    <img src="styles/images/Spain_flag.gif" width="25px" height="17px" ng-class="{'opacityHalf':langSelected!='es'}">
+                              </a>
+                              <a ng-click="setLocale('ca-ES')">
+                                    <img src="styles/images/flag-catalunya.png" width="25px" height="17px" style="margin-left:5px; margin-right:5px" ng-class="{'opacityHalf':langSelected!='cat'}">
+                              </a>
+                              <a ng-click="setLocale('en-US')">
+                                    <img src="styles/images/United_Kingdom.png" width="25px" height="17px" ng-class="{'opacityHalf':langSelected!='eng'}">
+                              </a>
+                        </div>
                   </div>
                   <div class="collapse navbar-collapse pull-right" id="main-navbar-collapse">
                         <ul class="nav navbar-nav">
@@ -91,7 +98,7 @@
                               <li ng-class="{ active: current==6 }">
                                     <a ng-click="gotoAnchor(6)" translate>AREA_CLINICA</a>
                               </li>
-                               <li ng-class="{ active: current==7 }">
+                              <li ng-class="{ active: current==7 }">
                                     <a ng-click="gotoAnchor(7)" translate>PACIENTES</a>
                               </li>
                               <li ng-class="{ active: current==8 }">
