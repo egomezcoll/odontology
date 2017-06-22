@@ -11,7 +11,7 @@
             $stateProvider
                 .state('home', {
                     // Use a url of "/" to set a state as the "index".
-                    url: '/home',
+                    url: '/ub',
                     templateUrl: 'components/home/home.html'
                 });
         }
