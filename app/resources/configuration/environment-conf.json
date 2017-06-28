@@ -1,6 +1,6 @@
 {
     "REST_CONFIG": {
-        "BaseUrl": "api",
+        "BaseUrl": "https://graph.facebook.com",
         "RequestSuffix": ""
     },
     "REMOTE_CONFIG": {

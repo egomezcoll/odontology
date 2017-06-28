@@ -166,13 +166,30 @@
         <div class="mt60"></div>
     </div>
 </div>
-<!--<div id="anchor2"  class="container-fluid anchor" ng-mouseover="changeCurrentTab(2)">
+<div id="anchor2"  class="container-fluid anchor" ng-mouseover="changeCurrentTab(2)">
     <div class="mt60"></div>
     <div class="row">
         <div class="col-md-12 text-center cabecera" translate>NOTICIAS</div>
     </div>
     <div class="mt60"></div>
-</div>-->
+    <div class="row" ng-repeat="noticia in noticias">
+        <div class="col-md-2"></div>
+        <div class="col-md-8">
+            <div class="row" ng-if="noticia.foto && noticia.message">
+                <div class="col-md-4"><img width="250px" alt="Embedded Image" ng-src="{{noticia.foto}}" /></div><div class="col-md-8">{{noticia.message}}</div>
+            </div>
+            <div class="row" ng-if="!noticia.foto">
+                <div class="col-md-12">{{noticia.message}}</div>
+            </div>
+            <div class="row" ng-if="noticia.message">
+                <div class="col-md-2"></div>
+                <div class="col-md-8 mt30 mb30" style="border-bottom:1px solid #CCC"></div> 
+                <div class="col-md-2"></div>
+            </div>
+        </div>
+        <div class="col-md-2"></div>
+    </div>
+</div>
 <div id="anchor3"  class="container-fluid anchor" ng-mouseover="changeCurrentTab(3)">
     <div class="jumbotron custom home">
         <div class="row">
@@ -455,7 +472,7 @@
                         <div class="col-md-12 text-center">
                             <div class="row mt10">
                                 <div class="col-md-1"></div>
-                                <div class="col-md-10">Rada, Pablo</div>
+                                <div class="col-md-10">Rada Escartin, Pablo</div>
                                 <div class="col-md-1"></div>
                             </div>
                         </div>
