@@ -11,7 +11,7 @@ angular.module('App.home')
         $scope.token = null;
         var hashmap = [];
 
-       
+
 
         $(document).on('click','.navbar-collapse.in',function(e) {
             if( $(e.target).is('a') ) {
@@ -56,19 +56,25 @@ angular.module('App.home')
                         }, function(error){
                             console.log(error);
                         });
-            })
+            });
 
-       
+
 
         $scope.getFBPicture = function(id, index, token){
                homeFactory.call(id, token).then(function(response){
                     $scope.news[index].foto = response.data.data.url;
+                    $scope.aux = $scope.news[index].created_time.split("T")[0];
+                    $scope.auxF = $scope.aux.split("-");
+                    $scope.news[index].fecha = $scope.auxF[2] + "-" + $scope.auxF[1] + "-" + $scope.auxF[0];
                 },function(error){
                     $scope.news[index].foto = false;
-                }); 
-            
+                    $scope.aux = $scope.news[index].created_time.split("T")[0];
+                    $scope.auxF = $scope.aux.split("-");
+                    $scope.news[index].fecha = $scope.auxF[2] + "-" + $scope.auxF[1] + "-" + $scope.auxF[0];
+                });
+
         };
-        
+
     }).factory('homeFactory',
         ["$http","$q", function ($http, $q) {
 
@@ -88,7 +94,7 @@ angular.module('App.home')
                         }
                         else{
                             deferredPetition.reject('error');
-                        }   
+                        }
                 }, function(error){
                     console.log(error);
                     deferredPetition.reject('error');
@@ -96,7 +102,6 @@ angular.module('App.home')
                 return deferredPetition.promise;
             };
 
-            return factory;    
-        
-        }]);
+            return factory;
 
+        }]);
